@@ -1,0 +1,926 @@
+﻿Plant,Event Date,Description,Result,ASP Report
+Duane Arnold,8/10/2020,LOOP caused by high winds during derecho,8.00E-04,https://www.nrc.gov/docs/ML2105/ML21056A382.pdf
+Brunswick 1,8/3/2020,LOOP during Hurricane Isaias,2.00E-05,https://www.nrc.gov/docs/ML2029/ML20294A552.pdf
+D.C. Cook 2,9/4/2020,Manual reactor trip and automatic SI due to failed open pressurizer spray valve,1.00E-05,https://www.nrc.gov/docs/ML2103/ML21035A236.pdf
+North Anna 1,2/18/2020,Degraded upper cylinder piston pin bushing discovered during maintenance activities on EDG,2.00E-06,https://www.nrc.gov/docs/ML2105/ML21055A029.pdf
+Quad Cities 2,3/30/2020,Electromatic relief valve 3D failed to actuate due to out-of-specification plunger,3.00E-05,https://www.nrc.gov/docs/ML2102/ML21029A319.pdf
+Surry 2,11/20/2019,AFW system flow diversion due to failed pump discharge check valve,5.00E-06,https://www.nrc.gov/docs/ML2021/ML20212L517.pdf
+Pilgrim,1/8/2019,RCIC system fails during surveillance testing,3.00E-06,https://www.nrc.gov/docs/ML1916/ML19169A279.pdf
+Peach Bottom 2,6/3/2018,EDG air inlet check valve failure,5.00E-06,https://www.nrc.gov/docs/ML1834/ML18341A206.pdf
+Peach Bottom 3,6/3/2018,EDG air inlet check valve failure,5.00E-06,https://www.nrc.gov/docs/ML1834/ML18341A206.pdf
+Browns Ferry 3,3/9/2019,LOOP caused by operator error,3.00E-06,https://www.nrc.gov/docs/ML1928/ML19288A331.pdf
+Clinton,5/17/2018,EDG inoperability due to air receiver remaining isolated following clearance tag removal,1.00E-06,https://www.nrc.gov/docs/ML1909/ML19092A212.pdf
+Clinton,12/9/2017,480V transformer failure leads to containment instrument air isolation and subsequent manual reactor scram,8.00E-06,https://www.nrc.gov/docs/ML1905/ML19050A510.pdf
+Peach Bottom 3,4/22/2018,RCIC system pressure switch failure,3.00E-06,https://www.nrc.gov/docs/ML1835/ML18352B099.pdf
+Oyster Creek,10/9/2017,Failure of EDG during surveillance testing due to a broken electrical connector,6.00E-06,https://www.nrc.gov/docs/ML1813/ML18130A649.pdf
+Waterford,7/17/2017,Severe storm causes main transformer fault and turbine trip with subsequent ABT failure resulting in LOOP,2.00E-05,https://www.nrc.gov/docs/ML1806/ML18066A196.pdf
+Davis-Besse,9/13/2017,TDAFW pump bearing damaged due to improperly marked lubricating oil sight glass,4.00E-06,https://www.nrc.gov/docs/ML1810/ML18103A208.pdf
+Clinton,6/15/2017,Division 3 shutdown SW pump start failure,4.00E-06,https://www.nrc.gov/docs/ML1805/ML18053A851.pdf
+ANO 1,4/26/2017,High winds results in reactor trip and partial LOOP,1.00E-05,https://www.nrc.gov/docs/ML1731/ML17319B035.pdf
+Catawba 2,4/11/2017,Failure to adequately establish and adjust preventative maintenance for EDG excitation system diodes,5.00E-06,https://www.nrc.gov/docs/ML1728/ML17289A300.pdf
+Turkey Point 3,3/18/2017,"Loss of 4kV vital bus results in reactor trip, safety system actuations, and loss of SI",3.00E-06,https://www.nrc.gov/docs/ML1803/ML18038B063.pdf
+Clinton,3/9/2017,Failure of the EDG ventilation fan load sequence relay circuit during concurrent maintenance of RHR pump,3.00E-06,https://www.nrc.gov/docs/ML1733/ML17331B161.pdf
+Vogtle 2,3/9/2017,Power supply failure results in EDG failure during testing,8.00E-05,https://www.nrc.gov/docs/ML1725/ML17250B343.pdf
+LaSalle 2,2/11/2017,HPCS system inoperable due to injection valve stem-disc separation,2.00E-05,https://www.nrc.gov/docs/ML1807/ML18072A326.pdf
+Cooper,2/5/2017,"Concurrent unavailabilities—RHR loop A, RCIC, and emergency station service transformer",6.00E-06,https://www.nrc.gov/docs/ML1806/ML18068A724.pdf
+Columbia,12/18/2016,Automatic scram due to offsite load reject,1.00E-05,https://www.nrc.gov/docs/ML1724/ML17249A968.pdf
+Palo Verde 3,12/15/2016,EDG failure resulting in a condition prohibited by TS,2.00E-05,https://www.nrc.gov/docs/ML1731/ML17313B159.pdf
+Perry,11/6/2016,EDG failure to start due to a failed diode in the DC control power circuit,9.00E-06,https://www.nrc.gov/docs/ML1723/ML17236A187.pdf
+Oyster Creek,9/19/2016,One electromatic relief valve inoperable for greater than allowed outage time,5.00E-06,https://www.nrc.gov/docs/ML1710/ML17101A422.pdf
+ANO 2,9/16/2016,EDG fails during testing due to insufficient bearing lubrication,9.00E-06,https://www.nrc.gov/docs/ML1705/ML17055A727.pdf
+St. Lucie 1,8/21/2016,Generator lockout relay actuation during power ascension results in reactor trip,2.00E-06,https://www.nrc.gov/docs/ML1710/ML17108A232.pdf
+Hatch 2,8/18/2016,EDG fails during surveillance test,1.00E-05,https://www.nrc.gov/docs/ML1710/ML17102A999.pdf
+Hope Creek,8/6/2016,Moisture in oil system results in failure of HPCI pump during testing,1.00E-06,https://www.nrc.gov/docs/ML1703/ML17033B541.pdf
+Dresden 3,6/27/2016,HPCI pump failure during testing,7.00E-06,https://www.nrc.gov/docs/ML1705/ML17058A419.pdf
+Diablo Canyon 2,5/16/2016,Containment sump isolation valve fails to open during testing,8.00E-06,https://www.nrc.gov/docs/ML1636/ML16363A429.pdf
+Catawba 1,3/28/2016,Mispositioned breaker with concurrent EDG unavailability results in potential loss of recirculation capability,1.00E-06,https://www.nrc.gov/docs/ML1703/ML17038A307.pdf
+Monticello,3/22/2016,HPCI pump loss of safety function due to excessive oil leakage,4.00E-06,https://www.nrc.gov/docs/ML1634/ML16347A616.pdf
+Perry,2/11/2016,Loss of safety-related electrical bus results in a loss of SDC,2.00E-06,https://www.nrc.gov/docs/ML1822/ML18228A845.pdf
+Brunswick 1,2/7/2016,Electrical bus fault results in lockout of startup auxiliary transformer and LOOP,3.00E-05,https://www.nrc.gov/docs/ML1710/ML17109A269.pdf
+Oyster Creek,1/4/2016,Failure of the EDG during surveillance testing due to a cooling water system leak,8.00E-06,https://www.nrc.gov/docs/ML1618/ML16188A014.pdf
+Oyster Creek,11/19/2015,Failure of the EDG to start during surveillance testing,5.00E-06,https://www.nrc.gov/docs/ML1621/ML16216A097.pdf
+Waterford,8/26/2015,Both EDGs declared inoperable,6.00E-06,https://www.nrc.gov/docs/ML1630/ML16308A447.pdf
+Waterford,6/3/2015,"Manual reactor trip due to low SG levels, AFW system flow oscillations, and failure of ABT",4.00E-06,https://www.nrc.gov/docs/ML1630/ML16306A336.pdf
+Dresden 2,2/7/2015,EMRV failed to actuate during extent of condition testing,3.00E-06,https://www.nrc.gov/docs/ML1526/ML15260A508.pdf
+Pilgrim,1/27/2015,LOOP due to Winter Storm Juno,4.00E-05,https://www.nrc.gov/docs/ML1615/ML16153A372.pdf
+D.C. Cook 1,11/1/2014,TDAFW pump failed to run following a loss of CHS caused by storm-induced debris damage of the CW pumps,1.00E-06,https://www.nrc.gov/docs/ML1616/ML16165A510.pdf
+Dresden 3,11/6/2014,EMRV failed to actuate during surveillance testing,3.00E-06,https://www.nrc.gov/docs/ML1508/ML15085A273.pdf
+River Bend,12/25/2014,Plant simulator failed to demonstrate expected plant response resulting in complicated reactor scram,5.00E-06,https://www.nrc.gov/docs/ML1525/ML15253A352.pdf
+Farley 2,10/14/2014,Manual reactor trip due to loss of startup transformer,6.00E-06,https://www.nrc.gov/docs/ML1610/ML16103A572.pdf
+Duane Arnold,10/9/2014,Degraded primary containment suppression pool coating,5.00E-06,https://www.nrc.gov/docs/ML1510/ML15106A595.pdf
+Wolf Creek,10/6/2014,Power potential transformer overloading results in EDG inoperability,2.00E-06,https://www.nrc.gov/docs/ML1710/ML17108A730.pdf
+Clinton,9/16/2014,Damaged bushing results in failure of division 3 SW pump and HPCS unavailability,7.00E-06,https://www.nrc.gov/docs/ML1522/ML15223B382.pdf
+Oyster Creek,9/12/2014,EDG rendered inoperable due to failure of cooling fan,5.00E-06,https://www.nrc.gov/docs/ML1511/ML15112A147.pdf
+Millstone 3,5/25/2014,Dual unit LOOP,2.00E-05,https://www.nrc.gov/docs/ML1514/ML15149A510.pdf
+Millstone 2,5/25/2014,Dual unit LOOP,1.00E-05,https://www.nrc.gov/docs/ML1514/ML15149A510.pdf
+ANO 1,3/5/2014,Inadequate external flood protection for safety-related equipment located below the design basis flood elevation,6.00E-05,https://www.nrc.gov/docs/ML1502/ML15023A076.pdf
+ANO 2,3/5/2014,Inadequate external flood protection for safety-related equipment located below the design basis flood elevation,3.00E-05,https://www.nrc.gov/docs/ML1502/ML15023A076.pdf
+Millstone 3,2/3/2014,TDAFW pump operability impacted by incorrect bearing,5.00E-06,https://www.nrc.gov/docs/ML1429/ML14294A220.pdf
+Shearon Harris,1/18/2014,Manual reactor trip due to indications of a fire,6.00E-06,https://www.nrc.gov/docs/ML1523/ML15238B708.pdf
+Calvert Cliffs 2,1/21/2014,Reactor trip due to inadequate protection against weather-related water intrusion,5.00E-06,https://www.nrc.gov/docs/ML1523/ML15238B710.pdf
+St. Lucie 1,1/9/2014,Auxiliary building flooding during heavy rain due to degraded conduits lacking internal flood barriers,5.00E-06,https://www.nrc.gov/docs/ML1432/ML14323A786.pdf
+ANO 2,12/9/2013,Fire and explosion of the unit auxiliary transformer,2.00E-06,https://www.nrc.gov/docs/ML1523/ML15238B714.pdf
+Oconee 1,11/11/2013,High cycle fatigue of HPI system weld results in reactor coolant leak and unit shutdown,5.00E-06,https://www.nrc.gov/docs/ML1422/ML14224A629.pdf
+Pilgrim,10/14/2013,LOOP during line maintenance,3.00E-05,https://www.nrc.gov/docs/ML1429/ML14294A591.pdf
+Ginna,10/4/2013,Unanalyzed condition for potential floodwater intrusion into battery rooms,5.00E-06,https://www.nrc.gov/docs/ML1410/ML14107A080.pdf
+Fort Calhoun,10/1/2013,Harsh environment due to postulated HELBs could lead to the failure of equipment needed to safely shutdown the plant,4.00E-06,https://www.nrc.gov/docs/ML1432/ML14329B361.pdf
+Duane Arnold,8/22/2013,RCIC pump turbine trip,2.00E-06,https://www.nrc.gov/docs/ML1404/ML14042A065.pdf
+Fort Calhoun,7/8/2013,Failure to fully incorporate applicable tornado missile protection for components needed to ensure the capability to safely shutdown the reactor,3.00E-06,https://www.nrc.gov/docs/ML1411/ML14115A411.pdf
+Waterford,5/22/2013,EDG inoperable due to room exhaust fan fire,4.00E-06,https://www.nrc.gov/docs/ML1408/ML14086A768.pdf
+LaSalle 2,4/25/2013,Manual reactor scram following trip of CW pumps,2.00E-06,https://www.nrc.gov/docs/ML1403/ML14034A373.pdf
+LaSalle 1,4/17/2013,LOOP due to lightning strike,1.00E-05,https://www.nrc.gov/docs/ML1507/ML15071A343.pdf
+LaSalle 2,4/17/2013,LOOP due to lightning strike,1.00E-05,https://www.nrc.gov/docs/ML1507/ML15071A343.pdf
+ANO 1,3/31/2013,Stator drop results in LOOP,6.00E-05,https://www.nrc.gov/docs/ML1417/ML14174A832.pdf
+ANO 2,3/31/2013,Stator drop results in partial LOOP,3.00E-05,https://www.nrc.gov/docs/ML1417/ML14174A832.pdf
+Point Beach 1,3/13/2013,Flooding procedure failed to protect safety-related equipment,5.00E-06,https://www.nrc.gov/docs/ML1322/ML13221A187.pdf
+Point Beach 2,3/13/2013,Flooding procedure failed to protect safety-related equipment,5.00E-06,https://www.nrc.gov/docs/ML1322/ML13221A187.pdf
+Duane Arnold,3/8/2013,EDG failure caused by incorrect installation of lube oil heat exchanger gasket,5.00E-06,https://www.nrc.gov/docs/ML1335/ML13353A487.pdf
+Monticello,2/15/2013,Failure to maintain site external flood plan,4.00E-05,https://www.nrc.gov/docs/ML1324/ML13240A435.pdf
+Pilgrim,2/8/2013,LOOP events due to Winter Storm Nemo,8.00E-05,https://www.nrc.gov/docs/ML1427/ML14273A261.pdf
+Browns Ferry 2,12/22/2012,Unplanned automatic reactor scram due to loss of power to the RPS,4.00E-06,https://www.nrc.gov/docs/ML1323/ML13235A058.pdf
+Sequoyah 1,12/12/2012,Inadequate electrical conduit seals for the ERCW pumping station could result in loss of EDGs during a flooding event,5.00E-06,https://www.nrc.gov/docs/ML1315/ML13155A560.pdf
+Sequoyah 2,12/12/2012,Inadequate electrical conduit seals for the ERCW pumping station could result in loss of EDGs during a flooding event,5.00E-06,https://www.nrc.gov/docs/ML1315/ML13155A560.pdf
+Dresden 2,11/21/2012,Failure to establish procedure to address external flooding,5.00E-06,https://www.nrc.gov/docs/ML1321/ML13213A073.pdf
+Oyster Creek,10/22/2012,Two EMRVs inoperable due to steam-induced plant vibration,5.00E-05,https://www.nrc.gov/docs/ML1511/ML15112A147.pdf
+Dresden 3,11/21/2012,Failure to establish procedure to address external flooding,5.00E-06,https://www.nrc.gov/docs/ML1321/ML13213A073.pdf
+Robinson,10/2/2012,Failure of dedicated shutdown EDG,3.00E-06,https://www.nrc.gov/docs/ML1326/ML13262A069.pdf
+Three Mile Island 1,9/1/2012,Electrical cable couplings located in air intake tunnel were not flood sealed,4.00E-06,https://www.nrc.gov/docs/ML1312/ML13120A040.pdf
+Watts Bar 1,7/1/2012,Inadequate flood mitigation strategy for certain flooding events,1.00E-05,https://www.nrc.gov/docs/ML1315/ML13155A572.pdf
+Oyster Creek,7/23/2012,Fault on 230kV transmission line leads to LOOP,6.00E-05,https://www.nrc.gov/docs/ML1319/ML13199A503.pdf
+River Bend,5/24/2012,"Losses of SW, CW, and feedwater due to electrical fault",2.00E-04,https://www.nrc.gov/docs/ML1332/ML13322A833.pdf
+Browns Ferry 3,5/22/2012,Station system transformer differential relay failure results in LOOP,2.00E-05,https://www.nrc.gov/docs/ML1311/ML13115A955.pdf
+Point Beach 1,5/21/2012,Inadequate maintenance leads to failure of TDAFW pump,5.00E-06,https://www.nrc.gov/docs/ML1300/ML13004A280.pdf
+Catawba 1,4/4/2012,Reactor trip due to faulted RCP cable and an error in protective relay actuation causes a LOOP,9.00E-06,https://www.nrc.gov/docs/ML1306/ML13060A208.pdf
+Byron 2,1/30/2012,Transformer and breaker failures cause LOOP and de-energized safety buses,1.00E-04,https://www.nrc.gov/docs/ML1305/ML13059A525.pdf
+Wolf Creek,1/13/2012,Multiple switchyard faults causes LOOP,5.00E-04,https://www.nrc.gov/docs/ML1311/ML13115A190.pdf
+Palisades,9/25/2011,Inadequate work instructions led to the loss of a 125V DC train and subsequent reactor trip,2.00E-05,https://www.nrc.gov/docs/ML1204/ML120450037.pdf
+North Anna 1,8/23/2011,Dual unit LOOP caused by earthquake with the Unit 1 TDAFW pump inoperable due to testing and subsequent failure of a Unit 2 EDG,3.00E-04,https://www.nrc.gov/docs/ML1227/ML12278A188.pdf
+North Anna 2,8/23/2011,Dual unit LOOP caused by earthquake with the Unit 1 TDAFW pump inoperable due to testing and subsequent failure of a Unit 2 EDG,6.00E-05,https://www.nrc.gov/docs/ML1227/ML12278A188.pdf
+Palisades,8/9/2011,Failure of a SW pump because of coupling failure,5.00E-06,https://www.nrc.gov/docs/ML1204/ML120450037.pdf
+Fort Calhoun,6/7/2011,Fire in safety-related 480V electrical breaker caused by deficient design controls during breaker modifications,4.00E-04,https://www.nrc.gov/docs/ML1210/ML12101A193.pdf
+Oconee 1,6/2/2011,Failure to maintain design control of the SSF pressurizer heater breakers,5.00E-05,https://www.nrc.gov/docs/ML1134/ML11340A139.pdf
+Oconee 2,6/2/2011,Failure to maintain design control of the SSF pressurizer heater breakers,5.00E-05,https://www.nrc.gov/docs/ML1134/ML11340A139.pdf
+Oconee 3,6/2/2011,Failure to maintain design control of the SSF pressurizer heater breakers,5.00E-05,https://www.nrc.gov/docs/ML1134/ML11340A139.pdf
+Limerick 2,5/23/2011,RCIC inoperable because of feedwater valve failures diverting flow to the main condenser,3.00E-06,https://www.nrc.gov/docs/ML1134/ML113410132.pdf
+Palisades,5/10/2011,TDAFW pump unavailable due to greasing of the wrong component in the pump,5.00E-06,https://www.nrc.gov/docs/ML1200/ML120030406.pdf
+Pilgrim,5/10/2011,Failure to effectively implement reactivity control standards and procedures during reactor startup,3.00E-06,https://www.nrc.gov/docs/ML1132/ML113220300.pdf
+Browns Ferry 2,4/27/2011,LOOP causes by high winds and tornados,1.00E-05,https://www.nrc.gov/docs/ML1218/ML12180A062.pdf
+Browns Ferry 1,4/27/2011,LOOP causes by high winds and tornados,1.00E-05,https://www.nrc.gov/docs/ML1218/ML12180A062.pdf
+Browns Ferry 3,4/27/2011,LOOP causes by high winds and tornados,1.00E-05,https://www.nrc.gov/docs/ML1218/ML12180A062.pdf
+Brunswick 1,4/20/2011,Penetrations in exterior wall of EDG fuel oil structure could lead to failure of the EDGs during postulated flooding,5.00E-06,https://www.nrc.gov/docs/ML1136/ML113610594.pdf
+Brunswick 2,4/20/2011,Penetrations in exterior wall of EDG fuel oil structure could lead to failure of the EDGs during postulated flooding,5.00E-06,https://www.nrc.gov/docs/ML1136/ML113610594.pdf
+Surry 1,4/16/2011,Dual unit LOOP because of switchyard damage caused by a tornado,9.00E-05,https://www.nrc.gov/docs/ML1212/ML121210463.pdf
+Surry 2,4/16/2011,Dual unit LOOP because of switchyard damage caused by a tornado,7.00E-05,https://www.nrc.gov/docs/ML1212/ML121210463.pdf
+Millstone 2,2/12/2011,Inadequate procedures and operator errors caused unplanned reactivity additions during main turbine control valve testing,5.00E-06,https://www.nrc.gov/docs/ML1122/ML112200394.pdf
+Byron 2,11/17/2010,Failure to ensure that a flange connection on the EDG lube oil cooler was correctly torqued following maintenance,3.00E-06,https://www.nrc.gov/docs/ML1107/ML110740619.pdf
+Cooper,11/5/2010,Deficient emergency procedures could lead to operators failing to position valves necessary for core cooling during a postulated fire,2.00E-06,https://www.nrc.gov/docs/ML1116/ML111610581.pdf
+Browns Ferry 1,10/23/2010,Failure to establish adequate design control and perform adequate maintenance causes valve failure results in RHR loop unavailability,1.00E-04,https://www.nrc.gov/docs/ML1112/ML111290482.pdf
+Prairie Island 1,10/22/2010,Battery chargers potentially inoperable because of an under-voltage condition,2.00E-06,https://www.nrc.gov/docs/ML1122/ML112290087.pdf
+Robinson,9/9/2010,Reactor trip with a loss of feedwater and pressurizer PORV opening on demand,3.00E-06,https://www.nrc.gov/docs/ML1125/ML112560288.pdf
+Susquehanna 1,7/16/2010,Manual reactor scram due to leakage from the CW system and subsequent flooding of the condenser bay,4.00E-06,https://www.nrc.gov/docs/ML1124/ML112411361.pdf
+Fort Calhoun,6/14/2010,Failure to identify the cause and prevent the failure of a trip contact assembly in the RPS,7.00E-06,https://www.nrc.gov/docs/ML1120/ML112000064.pdf
+Robinson,3/28/2010,Fire causes loss of non-vital busses along with a subsequent partial LOOP and RCP seal cooling challenges,4.00E-04,https://www.nrc.gov/docs/ML1124/ML112411359.pdf
+Oconee 3,2/23/2010,SSF letdown line orifice strainer blocked by valve gasket,2.00E-05,https://www.nrc.gov/docs/ML1022/ML102240588.pdf
+Robinson,2/22/2010,EDG inoperable due to failed output breaker while another EDG was unavailable due to maintenance,3.00E-06,https://www.nrc.gov/docs/ML1124/ML112411358.pdf
+Oconee 2,2/20/2010,SSF letdown line orifice strainer blocked by valve gasket,2.00E-05,https://www.nrc.gov/docs/ML1022/ML102240588.pdf
+Fort Calhoun,12/30/2009,Failure to establish and maintain procedures to protect the intake structure and auxiliary building from external floods,3.00E-05,https://www.nrc.gov/docs/ML1028/ML102800342.pdf
+Calvert Cliffs 2,2/18/2010,Failure of EDG to start during partial LOOP due to faulty relay,2.00E-05,https://www.nrc.gov/docs/ML1125/ML112560283.pdf
+Oconee 1,10/9/2009,SSF letdown line orifice strainer blocked by valve gasket,2.00E-05,https://www.nrc.gov/docs/ML1022/ML102240588.pdf
+Sequoyah 1,9/30/2009,Failure to establish an adequate procedure to implement flood mitigation strategy prior to installation of HESCO barriers,5.00E-06,https://www.nrc.gov/docs/ML1315/ML13155A560.pdf
+Sequoyah 2,9/30/2009,Failure to establish an adequate procedure to implement flood mitigation strategy prior to installation of HESCO barriers,5.00E-06,https://www.nrc.gov/docs/ML1315/ML13155A560.pdf
+Watts Bar 1,9/30/2009,Failure to establish an adequate procedure to implement flood mitigation strategy prior to installation of HESCO barriers,5.00E-06,https://www.nrc.gov/docs/ML1315/ML13155A572.pdf
+Farley 2,8/15/2009,Potential CCF of SW pumps due to manufacturing error,9.00E-06,https://www.nrc.gov/docs/ML1027/ML102770132.pdf
+Wolf Creek,8/19/2009,LOOP due to lightning strike,9.00E-06,https://www.nrc.gov/docs/ML1016/ML101600194.pdf
+Braidwood 2,7/30/2009,LOOP coincident with a reactor trip due to loss of RCPs,4.00E-05,https://www.nrc.gov/docs/ML1027/ML102700473.pdf
+Oyster Creek,7/12/2009,LOOP with unavailability of isolation condenser due to foreign material,5.00E-05,https://www.nrc.gov/docs/ML1016/ML101600186.pdf
+Ginna,7/2/2009,Corrosion binding of the governor control valve results in the TDAFW pump failure,9.00E-06,https://www.nrc.gov/docs/ML0931/ML093160200.pdf
+Braidwood 1,6/24/2009,Failure of containment sump suction valve to open,9.00E-06,https://www.nrc.gov/docs/ML1005/ML100560415.pdf
+Robinson,4/20/2009,EDG unavailable for 26 days due to breaker failure,7.00E-06,https://www.nrc.gov/docs/ML1034/ML103410289.pdf
+Sequoyah 1,3/26/2009,Loss of station transformer leads to partial LOOP and subsequent reactor trip,4.00E-06,https://www.nrc.gov/docs/ML1027/ML102770146.pdf
+Sequoyah 2,3/26/2009,Loss of station transformer leads to partial LOOP and subsequent reactor trip,4.00E-06,https://www.nrc.gov/docs/ML1027/ML102770146.pdf
+Browns Ferry 1,3/6/2009,Failure to protect cables of redundant safety systems from fire damage,2.00E-05,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Browns Ferry 2,3/6/2009,Failure to protect cables of redundant safety systems from fire damage,2.00E-05,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Browns Ferry 3,3/6/2009,Failure to protect cables of redundant safety systems from fire damage,1.00E-05,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Browns Ferry 1,2/27/2009,Inadequate procedure revision could lead to failure in operator response to a fire,5.00E-06,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Browns Ferry 2,2/27/2009,Inadequate procedure revision could lead to failure in operator response to a fire,5.00E-06,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Browns Ferry 3,2/27/2009,Inadequate procedure revision could lead to failure in operator response to a fire,5.00E-06,https://www.nrc.gov/docs/ML1010/ML101090503.pdf
+Seabrook,2/25/2009,Inadequate design on the EDG cooling water flange results in leak and subsequent failure,2.00E-06,https://www.nrc.gov/docs/ML0931/ML093160351.pdf
+Hatch 2,2/12/2009,Lack of preventive maintenance cause failures of EDG timer cards,6.00E-06,https://www.nrc.gov/docs/ML1013/ML101330476.pdf
+Ginna,12/2/2008,Inadequate governor preventative maintenance results in TDAFW pump failure,9.00E-06,https://www.nrc.gov/docs/ML0915/ML091550004.pdf
+Dresden 3,11/3/2008,"Failure to prevent inadvertent, uncontrolled control rod withdrawal by non-licensed operators",5.00E-06,https://www.nrc.gov/docs/ML0929/ML092990547.pdf
+Duane Arnold,11/2/2008,EDG output breaker failure during surveillance test,6.00E-06,https://www.nrc.gov/docs/ML0916/ML091610042.pdf
+St. Lucie 1,10/16/2008,Air intrusion into CCW system causes pump cavitation,2.00E-05,https://www.nrc.gov/docs/ML1010/ML101090509.pdf
+Monticello,9/11/2008,Reactor trip with partial LOOP due to blown fuse,1.00E-05,https://www.nrc.gov/docs/ML0923/ML092380380.pdf
+Waterford,9/2/2008,Loose inter-cell connecting bolts on station battery,6.00E-06,https://www.nrc.gov/docs/ML1001/ML100150660.pdf
+Brunswick 1,8/19/2008,All four EDGs unable to be operated locally due to incorrect control relay wiring,5.00E-06,https://www.nrc.gov/docs/ML0925/ML092580351.pdf
+Brunswick 2,8/19/2008,All four EDGs unable to be operated locally due to incorrect control relay wiring,5.00E-06,https://www.nrc.gov/docs/ML0925/ML092580351.pdf
+Prairie Island 2,7/31/2008,Potential unavailability of the CCW system during a postulated HELB due to inadequate design,3.00E-06,https://www.nrc.gov/docs/ML0924/ML092450624.pdf
+Prairie Island 1,7/31/2008,TDAFW pump inoperable due to mispositioned valve,1.00E-06,https://www.nrc.gov/docs/ML0902/ML090270979.pdf
+Hatch 1,7/12/2008,Degraded coupling leads to EDG inoperability,5.00E-06,https://www.nrc.gov/docs/ML0915/ML091590406.pdf
+Hatch 2,7/12/2008,Degraded coupling leads to EDG inoperability,5.00E-06,https://www.nrc.gov/docs/ML0915/ML091590406.pdf
+Oconee 1,4/15/2008,Procedure error leads to loss of RCS inventory while shutdown,5.00E-06,https://www.nrc.gov/docs/ML0905/ML090510161.pdf
+San Onofre 2,3/25/2008,Deficient electrical connections with potential to affect multiple safety systems,1.00E-06,https://www.nrc.gov/docs/ML0835/ML083540244.pdf
+Farley 1,3/13/2008,EDG exhaust pipe failure,3.00E-06,https://www.nrc.gov/docs/ML0824/ML082480616.pdf
+Cooper,1/15/2008,Failure to establish procedural controls for maintenance of electrical connections on essential equipment,3.00E-06,https://www.nrc.gov/docs/ML0821/ML082140518.pdf
+Point Beach 1,1/15/2008,Concurrent loss of the station auxiliary transformer and a safety bus,7.00E-06,https://www.nrc.gov/docs/ML0914/ML091480413.pdf
+Byron 1,10/19/2007,Corrosion of ESW system piping,3.00E-06,https://www.nrc.gov/docs/ML0809/ML080921002.pdf
+Comanche Peak 1,11/21/2007,EDG failed to activate during testing,8.00E-06,https://www.nrc.gov/docs/ML0806/ML080600164.pdf
+Byron 2,10/19/2007,Corrosion of ESW system piping,3.00E-06,https://www.nrc.gov/docs/ML0809/ML080921002.pdf
+McGuire 1,8/7/2007,Potential inoperability of SW strainer backwash system during accident conditions,5.00E-06,https://www.nrc.gov/docs/ML0830/ML083020604.pdf
+McGuire 2,8/7/2007,Potential inoperability of SW strainer backwash system during accident conditions,5.00E-06,https://www.nrc.gov/docs/ML0830/ML083020604.pdf
+Cooper,6/14/2007,Inadequate post-fire procedure could have prevented achieving safe shutdown,8.00E-06,https://www.nrc.gov/docs/ML0816/ML081650090.pdf
+Fort Calhoun,2/16/2007,EDG failure during test due to degraded field flash contacts,5.00E-06,https://www.nrc.gov/docs/ML0734/ML073410416.pdf
+Cooper,1/18/2007,Inadequate procedures result in failure of EDG voltage regulator,1.00E-06,https://www.nrc.gov/docs/ML0722/ML072290167.pdf
+Farley 2,1/5/2007,RHR containment sump suction valve inoperable,3.00E-05,https://www.nrc.gov/docs/ML0730/ML073040249.pdf
+Brunswick 1,11/2/2006,EDG inoperable due to inadequate foreign material exclusion practices,3.00E-06,https://www.nrc.gov/docs/ML0711/ML071130028.pdf
+Brunswick 2,11/1/2006,Loss of transformer results in manual reactor trip and LOOP,6.00E-06,https://www.nrc.gov/docs/ML0813/ML081350025.pdf
+River Bend,10/19/2006,Automatic reactor scram due to inadvertent isolation of feedwater headers,3.00E-06,Report Unavailable
+Fort Calhoun,10/10/2006,Faulty maintenance causes the inoperability of a CSS train,5.00E-06,https://www.nrc.gov/docs/ML0715/ML071500074.pdf
+Surry 2,10/7/2006,Reactor trip and LOOP to three out of four safety-related buses due transformer failure,2.00E-06,https://www.nrc.gov/docs/ML0826/ML082610715.pdf
+Palo Verde 3,9/22/2006,Inoperable EDG due to inadequate maintenance procedures and corrective actions,9.00E-06,https://www.nrc.gov/docs/ML0705/ML070530206.pdf
+Kewaunee,8/17/2006,Degraded EDG due to fuel oil leak,6.00E-05,https://www.nrc.gov/docs/ML0709/ML070940146.pdf
+Catawba 1,5/20/2006,Dual unit LOOP,9.00E-05,https://www.nrc.gov/docs/ML0627/ML062710061.pdf
+Catawba 2,5/20/2006,Dual unit LOOP,6.00E-05,https://www.nrc.gov/docs/ML0627/ML062710061.pdf
+Oconee 3,5/1/2006,Potentially degraded containment sump recirculation due to debris,5.00E-06,https://www.nrc.gov/docs/ML0704/ML070450021.pdf
+Calvert Cliffs 1,3/24/2006,Degraded EDG due to inadequate feeder breaker,7.00E-06,https://www.nrc.gov/docs/ML0630/ML063000299.pdf
+Turkey Point 3,3/8/2006,Loss of RHR while in mode 5 due to electrical complications,7.00E-06,https://www.nrc.gov/docs/ML0632/ML063260154.pdf
+Millstone 2,2/23/2006,Reactor trip due to loss of instrument air,8.00E-06,https://www.nrc.gov/docs/ML0719/ML071930281.pdf
+Fitzpatrick,4/10/2020,High pressure coolant injection inoperable due to oil leak,3.00E-06,https://www.nrc.gov/docs/ML2110/ML21105A543.pdf
+Clinton,1/20/2006,Potential air entrapment of HPCS due to incorrect suction source switch-over set point,4.00E-06,https://www.nrc.gov/docs/ML0703/ML070390148.pdf
+Quad Cities 1,12/1/2005,SRVs were inoperable during extended power up-rate conditions,2.00E-06,https://www.nrc.gov/docs/ML0618/ML061800378.pdf
+D.C. Cook 2,11/8/2005,Reactor trip from RCP bus under-voltage signal complicated by EDG output breaker failure,8.00E-06,https://www.nrc.gov/docs/ML0825/ML082530202.pdf
+Turkey Point 3,11/7/2005,TDAFW pump failure due to improperly installed bearing,1.00E-06,https://www.nrc.gov/docs/ML0610/ML061090107.pdf
+Waterford,8/29/2005,LOOP caused by Hurricane Katrina while plant was shutdown,2.00E-06,https://www.nrc.gov/docs/ML0627/ML062710035.pdf
+Oconee 1,8/3/2005,Failure to control maintenance activities for SSF flooding boundary,3.00E-06,https://www.nrc.gov/docs/ML0632/ML063260282.pdf
+Oconee 2,8/3/2005,Failure to control maintenance activities for SSF flooding boundary,3.00E-06,https://www.nrc.gov/docs/ML0632/ML063260282.pdf
+Oconee 3,8/3/2005,Failure to control maintenance activities for SSF flooding boundary,3.00E-06,https://www.nrc.gov/docs/ML0632/ML063260282.pdf
+Columbia,6/23/2005,Reactor trip due to feedwater pump trip caused by maintenance personnel error,1.00E-05,https://www.nrc.gov/docs/ML0627/ML062710039.pdf
+Kewaunee,5/10/2005,Design deficiency could cause unavailability of safety-related equipment during postulated internal flooding,8.00E-05,https://www.nrc.gov/docs/ML0535/ML053570014.pdf
+Millstone 3,4/17/2005,Inadvertent SI actuation with failure of TDAFW pump to start,8.00E-06,https://www.nrc.gov/docs/ML0631/ML063170289.pdf
+Watts Bar 1,2/22/2005,LTOP valve actuations while shutdown,7.00E-06,https://www.nrc.gov/docs/ML0610/ML061000643.pdf
+Indian Point 2,2/18/2005,Potential degradation of SI system due to nitrogen accumulation from leaking accumulator,4.00E-06,https://www.nrc.gov/docs/ML0631/ML063180121.pdf
+Kewaunee,2/11/2005,"Several design deficiencies could lead to unavailability of AFW pumps during postulated events (e.g., HELB and tornado)",1.00E-05,https://www.nrc.gov/docs/ML0631/ML063170280.pdf
+LaSalle 1,2/2/2005,Single failure vulnerability of bus protective relay schemes caused by common power metering circuits,5.00E-06,https://www.nrc.gov/docs/ML0525/ML052500698.pdf
+LaSalle 2,2/2/2005,Single failure vulnerability of bus protective relay schemes caused by common power metering circuits,5.00E-06,https://www.nrc.gov/docs/ML0525/ML052500698.pdf
+Crystal River,1/27/2005,Single failure vulnerability of bus protective relay schemes caused by common power metering circuits,5.00E-06,https://www.nrc.gov/docs/ML0526/ML052650156.pdf
+River Bend,12/10/2004,Reactor trip due to loss of a non-vital instrument bus,3.00E-05,https://www.nrc.gov/docs/ML0627/ML062710038.pdf
+Watts Bar 1,11/22/2004,CCW backup line from ERCW was unavailable due to silt blockage,8.00E-06,https://www.nrc.gov/docs/ML0631/ML063170266.pdf
+Vogtle 2,11/20/2004,Reactor trip with SI and full-open demand from TBVs caused by operator error and failed circuit card,3.00E-06,https://www.nrc.gov/docs/ML0627/ML062710030.pdf
+Fort Calhoun,10/19/2004,EDG inoperable due to blown fuse,4.00E-06,https://www.nrc.gov/docs/ML0631/ML063170256.pdf
+Hope Creek,10/10/2004,Manual reactor scram due to moisture separator re-heater drain line failure,2.00E-06,https://www.nrc.gov/docs/ML0627/ML062710037.pdf
+St. Lucie 1,9/25/2004,LOOP caused by Hurricane Jeanne while plant was shutdown,1.00E-05,https://www.nrc.gov/docs/ML0627/ML062710041.pdf
+St. Lucie 2,9/25/2004,LOOP caused by Hurricane Jeanne while plant was shutdown,1.00E-05,https://www.nrc.gov/docs/ML0627/ML062710041.pdf
+Palo Verde 1,7/30/2004,Containment sump recirculation potentially inoperable due to pipe voids,1.00E-05,https://www.nrc.gov/docs/ML0602/ML060240389.pdf
+Palo Verde 2,7/30/2004,Containment sump recirculation potentially inoperable due to pipe voids,1.00E-05,https://www.nrc.gov/docs/ML0602/ML060240389.pdf
+Palo Verde 3,7/30/2004,Containment sump recirculation potentially inoperable due to pipe voids,1.00E-05,https://www.nrc.gov/docs/ML0602/ML060240389.pdf
+Palo Verde 1,6/14/2004,Multi-unit LOOP with failure of a Unit 2 EDG,9.00E-06,https://www.nrc.gov/docs/ML0517/ML051790379.pdf
+Palo Verde 2,6/14/2004,Multi-unit LOOP with failure of a Unit 2 EDG,4.00E-05,https://www.nrc.gov/docs/ML0517/ML051790379.pdf
+Palo Verde 3,6/14/2004,Multi-unit LOOP with failure of a Unit 2 EDG,9.00E-06,https://www.nrc.gov/docs/ML0517/ML051790379.pdf
+Dresden 3,5/5/2004,Loss offsite power,3.00E-06,https://www.nrc.gov/docs/ML0602/ML060240407.pdf
+Peach Bottom 3,3/17/2004,HPCI unavailable due failed flow controller,2.00E-06,https://www.nrc.gov/docs/ML0602/ML060240394.pdf
+Palo Verde 2,2/19/2004,Failure to implement design of SG nozzle dam requiring extension of reduced inventory configuration,1.00E-06,https://www.nrc.gov/docs/ML2010/ML20100K882.pdf
+Turkey Point 4,2/3/2004,Potential loss of RCP seal cooling during a postulated fire,7.00E-06,https://www.nrc.gov/docs/ML0603/ML060380069.pdf
+Calvert Cliffs 2,1/23/2004,Reactor trip caused by loss of feedwater complicated by a failed relay causing overcooling,4.00E-06,https://www.nrc.gov/docs/ML0627/ML062710050.pdf
+Brunswick 2,1/4/2004,EDG unavailable due to jacket water leak,2.00E-06,https://www.nrc.gov/docs/ML0517/ML051790348.pdf
+Surry 1,11/3/2003,Potential loss of RCP seal cooling due to postulated fire damage to emergency switchgear,1.00E-06,https://www.nrc.gov/docs/ML0517/ML051790376.pdf
+Surry 2,11/3/2003,Potential loss of RCP seal cooling due to postulated fire damage to emergency switchgear,1.00E-06,https://www.nrc.gov/docs/ML0517/ML051790376.pdf
+Waterford,9/29/2003,Degraded EDG due to failed fuel line,2.00E-06,https://www.nrc.gov/docs/ML0511/ML051190648.pdf
+Peach Bottom 3,9/15/2003,LOOP caused by lightning strike with a failure of an EDG and stuck-open SRV,3.00E-06,https://www.nrc.gov/docs/ML0602/ML060240384.pdf
+Perry,9/1/2003,ESW pump failed due to shaft failure and inadequate repairs led to a subsequent failure,1.00E-06,https://www.nrc.gov/docs/ML0511/ML051190665.pdf
+Fermi,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",2.00E-05,https://www.nrc.gov/docs/ML0509/ML050950555.pdf
+Fitzpatrick,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",4.00E-06,https://www.nrc.gov/docs/ML0509/ML050950565.pdf
+Ginna,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",3.00E-05,https://www.nrc.gov/docs/ML0509/ML050960036.pdf
+Indian Point 2,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",6.00E-06,https://www.nrc.gov/docs/ML0509/ML050960041.pdf
+Indian Point 3,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",7.00E-06,https://www.nrc.gov/docs/ML0509/ML050960051.pdf
+Nine Mile Point 1,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",2.00E-05,https://www.nrc.gov/docs/ML0509/ML050960242.pdf
+Nine Mile Point 2,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",2.00E-05,https://www.nrc.gov/docs/ML0509/ML050960252.pdf
+Perry,8/14/2003,"Grid-related LOOP due to August 14, 2003 Northeast Blackout",3.00E-05,https://www.nrc.gov/docs/ML0509/ML050960263.pdf
+Hope Creek,7/1/2003,SW traveling screen failed due to inadequate maintenance instructions,3.00E-06,https://www.nrc.gov/docs/ML0511/ML051190633.pdf
+Oyster Creek,5/20/2003,Loss of vital bus due to ground fault in normally energized underground cable,1.00E-06,https://www.nrc.gov/docs/ML0517/ML051790372.pdf
+St. Lucie 2,4/30/2003,RPV head leakage of two CRDM nozzles,4.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Grand Gulf,4/24/2003,LOOP and subsequent loss of the instrument air system,1.00E-06,https://www.nrc.gov/docs/ML0627/ML062710045.pdf
+Palisades,3/25/2003,LOOP and temporary loss of SDC,3.00E-06,https://www.nrc.gov/docs/ML0511/ML051190504.pdf
+Nine Mile Point 1,3/7/2003,Potential unavailability of reactor building closed cooling system due to degraded piping,4.00E-06,https://www.nrc.gov/docs/ML0511/ML051190518.pdf
+Kewaunee,2/26/2003,One EDG unavailable due to faulty relay with other EDG unavailable due to maintenance,4.00E-06,https://www.nrc.gov/docs/ML0602/ML060240375.pdf
+Shearon Harris,12/20/2002,"Postulated fires could cause spurious actuation of certain valves resulting in a loss of charging pump, RCP seal cooling, loss of RCS inventory, and other conditions",9.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E262.pdf
+Kewaunee,10/30/2002,Potentially unavailable safety-related equipment due to lack of fixed fire suppression system,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112J513.pdf
+Point Beach 1,10/29/2002,Potential common-mode failure of all AFW pumps due to clogging of recirculation lines during switchover to SW,6.00E-05,https://www.nrc.gov/docs/ML2011/ML20114E142.pdf
+Point Beach 2,10/29/2002,Potential common-mode failure of all AFW pumps due to clogging of recirculation lines during switchover to SW,4.00E-04,https://www.nrc.gov/docs/ML2011/ML20114E142.pdf
+Indian Point 2,7/19/2002,Degraded MCR fire barrier,7.00E-06,https://www.nrc.gov/docs/ML2011/ML20112J068.pdf
+Oconee 3,5/30/2002,Potential unavailability of a HPI pump due to improperly installed wire connectors during a postulated severe LOOP or HELB,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E069.pdf
+Braidwood 1,4/16/2002,Inoperable PORV bleed path due to leaking air accumulators,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F316.pdf
+Davis-Besse,2/27/2002,"RPV head leakage of CRDM nozzles, potential unavailability of sump recirculation due to screen plugging, and potential unavailability of boron precipitation control",6.00E-03,https://www.nrc.gov/docs/ML2011/ML20112F488.pdf
+Columbia,2/14/2002,Potential unavailability of four safety-related breakers due to degraded switches,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F404.pdf
+Shearon Harris,12/18/2001,Degraded fire barrier and lack of fire brigade training could result in unavailability of a train of safety equipment and TDAFW pump flow control,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E210.pdf
+Callaway,12/3/2001,Potential unavailabilities of ESW and AFW pump due to foreign material with a CCW pump inoperable due to improper maintenance,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F370.pdf
+Point Beach 1,11/29/2001,Potential common-mode failure of all AFW due to design deficiency of minimum flow recirculation valves and potential loss of feed and bleed capability during postulated loss of instrument air,6.00E-04,https://www.nrc.gov/docs/ML2011/ML20114E135.pdf
+Point Beach 2,11/29/2001,Potential common-mode failure of all AFW due to design deficiency of minimum flow recirculation valves and potential loss of feed and bleed capability during postulated loss of instrument air,7.00E-04,https://www.nrc.gov/docs/ML2011/ML20114E135.pdf
+North Anna 1,11/13/2001,RPV head leakage of one CRDM nozzle,4.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+North Anna 2,11/13/2001,RPV head leakage of one CRDM nozzle,2.00E-04,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Surry 1,10/28/2001,RPV head leakage of two CRDM nozzles,8.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Three Mile Island 1,10/12/2001,RPV head leakage of eight thermocouple nozzles and five CRDM nozzles,7.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Shearon Harris,10/8/2001,Both trains of RHR potentially unavailable due to debris entrapment and inoperable isolation valve,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E215.pdf
+Crystal River,10/1/2001,RPV head leakage of one CRDM nozzle,4.00E-06,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Palisades,9/11/2001,Potential unavailability of safety-related equipment during a postulated fire due to improper installation of smoke detectors,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E132.pdf
+LaSalle 2,9/3/2001,"Reactor scram, loss of power to vital bus, and unavailabilities of CSS, RHR, and CRD pumps",1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112J645.pdf
+D.C. Cook 1,8/29/2001,EDGs potentially unavailable due to lack of ESW flow caused by a deformed strainer and TDAFW pump inoperable due to failed latching mechanism,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F482.pdf
+ANO 1,8/20/2001,Potential unavailability of safety-related equipment during a postulated fire due to improper fire protection and procedures,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F251.pdf
+D.C. Cook 2,8/9/2001,EDGs potentially unavailable due to lack of ESW flow caused by a deformed strainer and TDAFW pump inoperable due to failed latching mechanism,7.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F482.pdf
+Quad Cities 2,8/2/2001,LOOP due to a transformer failure caused by lightning,5.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E200.pdf
+Dresden 3,7/19/2001,HPCI inoperable due to water hammer event,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20112H736.pdf
+Palisades,6/21/2001,RPV head leakage of one CRDM nozzle,7.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Oconee 1,4/30/2001,Potential unavailability of HPI and CCW pumps due to flooding caused by a postulated break on non-seismically qualified piping,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E944.pdf
+Calvert Cliffs 1,5/16/2001,TDAFW pump inoperable due to sealant intrusion,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F385.pdf
+Oconee 2,4/30/2001,Potential unavailability of HPI and CCW pumps due to flooding caused by a postulated break on non-seismically qualified piping,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E944.pdf
+Oconee 3,4/30/2001,Potential unavailability of HPI and CCW pumps due to flooding caused by a postulated break on non-seismically qualified piping,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E944.pdf
+Oconee 2,4/28/2001,RPV head leakage of four CRDM nozzles,1.00E-04,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Surry 1,4/23/2001,EDG unavailable due to abnormal wear of piston rings,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E266.pdf
+Surry 2,4/23/2001,EDG unavailable due to abnormal wear of piston rings,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E266.pdf
+Fermi,3/28/2001,EDG unavailable due to degraded bearing,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20112H840.pdf
+ANO 1,3/24/2001,RPV head leakage of one CRDM nozzle,8.00E-05,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Limerick 2,2/23/2001,Inadvertent opening and stuck open main steam relief valve,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E931.pdf
+Oconee 3,2/18/2001,RPV head leakage of nine CRD rod mechanism nozzles,3.00E-04,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Oconee 1,12/4/2000,RPV head leakage of five thermocouple nozzles and one CRDM nozzle,3.00E-04,https://www.nrc.gov/docs/ML0631/ML063170247.pdf
+Prairie Island 1,11/1/2000,Potential unavailability of SW pumps due to improper design modification of backflush system and failure of vacuum valves,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E161.pdf
+Prairie Island 2,11/1/2000,Potential unavailability of SW pumps due to improper design modification of backflush system and failure of vacuum valves,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E161.pdf
+Summer,9/21/2000,TDAFW train unavailable due to out-of-position valve with an EDG out for maintenance,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E263.pdf
+Millstone 2,9/20/2000,TDAFW pump potentially inoperable due to governor malfunction,2.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E936.pdf
+Diablo Canyon 1,5/15/2000,LOOP caused by transformer and bus faults,4.00E-04,https://www.nrc.gov/docs/ML2011/ML20112H532.pdf
+Oconee 1,4/1/2000,HPI pumps not capable of using the SFP with operators potentially unable to align ASW pump during a postulated tornado,5.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E940.pdf
+Oconee 2,4/1/2000,HPI pumps not capable of using the SFP with operators potentially unable to align ASW pump during a postulated tornado,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E940.pdf
+Oconee 3,4/1/2000,HPI pumps not capable of using the SFP with operators potentially unable to align ASW pump during a postulated tornado,4.00E-06,https://www.nrc.gov/docs/ML2011/ML20113E940.pdf
+Indian Point 2,2/15/2000,SG tube failure (75 gpm),5.00E-04,https://www.nrc.gov/docs/ML2011/ML20112J239.pdf
+Salem 2,2/14/2000,Degraded CO2 suppression for 4.16kV safety-related switchgear rooms,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E204.pdf
+D.C. Cook 1,12/30/1999,Containment sump recirculation potentially inoperable due to pressure locking,4.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F469.pdf
+D.C. Cook 2,12/30/1999,Containment sump recirculation potentially inoperable due to pressure locking,4.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F469.pdf
+D.C. Cook 1,10/22/1999,"AFW, EDG, and electrical equipment potentially unavailable due to postulated HELBs",4.00E-04,https://www.nrc.gov/docs/ML2011/ML20112F420.pdf
+D.C. Cook 2,10/22/1999,"AFW, EDG, and electrical equipment potentially unavailable due to postulated HELBs",4.00E-04,https://www.nrc.gov/docs/ML2011/ML20112F420.pdf
+Indian Point 2,8/31/1999,Plant-centered LOOP (degraded voltage control relay) with an EDG unavailable due to failed output breaker,2.00E-05,https://www.nrc.gov/docs/ML2011/ML20112J404.pdf
+D.C. Cook 1,6/11/1999,Potential unavailability of ESW system due to multiple problems with back-flushing capability,3.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F416.pdf
+D.C. Cook 2,6/11/1999,Potential unavailability of ESW system due to multiple problems with back-flushing capability,3.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F416.pdf
+Oconee 1,2/24/1999,Potential unavailability of 4.16kV safety-related switchgear due to postulated HELBs,8.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E065.pdf
+Oconee 2,2/24/1999,Potential unavailability of 4.16kV safety-related switchgear due to postulated HELBs,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E065.pdf
+Oconee 3,2/24/1999,Potential unavailability of 4.16kV safety-related switchgear due to postulated HELBs,5.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E065.pdf
+Davis-Besse,10/14/1998,LOOP due to a tornado,6.00E-04,https://www.nrc.gov/docs/ML2011/ML20112F524.pdf
+Byron 1,9/12/1998,EDG unavailable due to clogged lube oil strainers,6.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F322.pdf
+Big Rock Point,7/14/1998,Liquid poison control system unavailable due to corroded discharge pipe,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F278.pdf
+D.C. Cook 2,7/4/1998,Potential HELB with unqualified access doors could cause failure of adjacent CCW pumps,3.00E-06,https://www.nrc.gov/docs/ML2011/ML20112F486.pdf
+Davis-Besse,6/24/1998,Vital and non-vital bus lockout caused by maintenance error results in CCW system leak and manual reactor trip,1.00E-05,https://www.nrc.gov/docs/ML2011/ML20112F526.pdf
+Oconee 1,2/12/1998,Potential unavailability of recirculation due to miscalibration of BWST level transmitter and inaccurate calculations,2.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E063.pdf
+Oconee 2,2/12/1998,Potential unavailability of recirculation due to miscalibration of BWST level transmitter and inaccurate calculations,2.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E063.pdf
+Oconee 3,2/12/1998,Potential unavailability of recirculation due to miscalibration of BWST level transmitter and inaccurate calculations,1.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E063.pdf
+San Onofre 2,2/5/1998,Sump recirculation valve inoperable due to jammed line starter,7.00E-06,https://www.nrc.gov/docs/ML2011/ML20114E207.pdf
+St. Lucie 1,11/2/1997,Recirculation potentially unavailable during postulated LLOCA due to incorrect recirculation actuation signal set point,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A208.pdf
+Three Mile Island 1,6/21/1997,LOOP due failed generator output breakers with a PORV failed closed,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A215.pdf
+Oconee 3,5/3/1997,Two HPI pumps damaged due to inadequate NPSH caused by a leak in the letdown storage tank,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H298.pdf
+Oconee 2,4/21/1997,Unisolable RCS leak (12 gpm) from HPI piping,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H296.pdf
+Maine Yankee,1/22/1997,Potential unavailability of hot leg recirculation due to pressure locking of key valves,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G973.pdf
+Haddam Neck,9/1/1996,Potentially inadequate RHR pump NPSH following a LOCA,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G961.pdf
+Haddam Neck,8/1/1996,RHR pump unavailable due to manufacturing defects and marginal pump design,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G962.pdf
+Prairie Island 2,6/29/1996,LOOP caused by high winds,5.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H311.pdf
+Prairie Island 1,6/29/1996,LOOP caused by high winds,5.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H311.pdf
+LaSalle 1,6/28/1996,Reactor scram and increased potential for loss of SW due to sealant intrusion,7.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G970.pdf
+LaSalle 2,6/28/1996,Reactor scram and increased potential for loss of SW due to sealant intrusion,7.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G970.pdf
+Byron 1,5/23/1996,LOOP caused by (transformer fault while in Mode 4,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G730.pdf
+Seabrook,5/21/1996,TDAFW pump inoperable due to improper installation of mechanical seal,5.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A199.pdf
+ANO 1,5/19/1996,Reactor trip and stuck open main steam relief valve causes SG dry-out condition,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G722.pdf
+Catawba 2,2/6/1996,LOOP caused by transformer ground faults with an EDG unavailable due to maintenance,2.00E-03,https://www.nrc.gov/docs/ML2013/ML20135G735.pdf
+McGuire 2,3/6/1996,EDG potentially unavailable due to air entrapment,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G976.pdf
+Wolf Creek,1/30/1996,Frazil ice buildup leads to loss of main condenser vacuum and subsequent reactor trip and loss of ESW train and TDAFW pump inoperable,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A225.pdf
+Salem 1,1/10/1996,Charging pumps potentially unavailable due to pressure locking of key valves,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H319.pdf
+Salem 2,1/10/1996,Charging pumps potentially unavailable due to pressure locking of key valves,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H319.pdf
+St. Lucie 2,11/3/1995,EDG unavailable due to cracked sockets,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A210.pdf
+D.C. Cook 1,9/12/1995,HPI pump unavailable due to miscalibrated relay,8.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G740.pdf
+Limerick 1,9/11/1995,Potential loss of RHR due to debris plugging of suppression pool strainers,9.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G972.pdf
+St. Lucie 1,8/2/1995,PORVs inoperable due to incorrect reassembly with RCP seal degradation and SDC unavailable due to failed relief valve,9.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A207.pdf
+ANO 2,7/19/1995,Potential unavailabilities of both AFW trains due to wiring error,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G724.pdf
+Comanche Peak 1,6/11/1995,Reactor trip with a failure of the TDAFW pump and MDAFW unavailable due to testing,7.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G738.pdf
+Waterford,6/10/1995,Electrical failure leads to reactor trip and loss of safety bus with degraded SDC during recovery,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A222.pdf
+ANO 1,4/20/1995,Reactor trip with MDAFW train unavailable,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G721.pdf
+Haddam Neck,3/9/1995,HPI and LPI valves potentially inoperable due to pressure locking,5.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G960.pdf
+Millstone 2,1/25/1995,Containment sump isolation valves potentially inoperable due to pressure locking,3.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G978.pdf
+Turkey Point 3,11/3/1994,SI load sequencers potentially inoperable due to software errors,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A218.pdf
+Turkey Point 4,11/3/1994,SI load sequencers potentially inoperable due to software errors,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A218.pdf
+Wolf Creek,9/17/1994,"RCS blowdown (9,200 gallons) to the RWST",3.00E-03,https://www.nrc.gov/docs/ML2014/ML20140A224.pdf
+River Bend,9/8/1994,Reactor scram with RCIC and CRD injection unavailable,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H315.pdf
+Dresden 2,8/4/1994,HPCI pump inoperable due to failed check valve,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G746.pdf
+Dresden 2,6/8/1994,All MCCs potentially unavailable due to improper feeder breaker settings,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G745.pdf
+Zion 2,3/7/1994,TDAFW pump inoperable with EDG failure caused by blown fuse and zebra mussels,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A230.pdf
+Haddam Neck,2/16/1994,Potential unavailability of MCC due to ABT failure with potential unavailability of PORVs,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G959.pdf
+Point Beach 1,2/8/1994,EDG inoperable due to fuel pump failure while other EDG out for maintenance,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H309.pdf
+Point Beach 2,2/8/1994,EDG inoperable due to fuel pump failure while other EDG out for maintenance,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H309.pdf
+Calvert Cliffs 2,1/12/1994,"Reactor trip, loss of 13.8kV bus resulting in partial LOOP, and short-term loss of salt water cooling",1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G733.pdf
+McGuire 2,12/27/1993,LOOP due to failed switchyard insulator and MSIV failing to shut causes potential SG dry out,9.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G975.pdf
+Beaver Valley 2,11/6/1993,Both EDG load sequencers inoperable,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G726.pdf
+Beaver Valley 1,10/12/1993,LOOP caused by improper breaker maintenance,6.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G725.pdf
+ANO 1,9/30/1993,Both trains of recirculation inoperable,5.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G720.pdf
+LaSalle 1,9/14/1993,LOOP due to transformer fault,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G969.pdf
+D.C. Cook 2,8/2/1993,Reactor trip with MDAFW pump degraded,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G741.pdf
+Haddam Neck,6/27/1993,"Potential unavailability of MCC due to ABT failure, both EDGs degraded, and potential unavailability of feed and bleed capability due the PORV air leak",7.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G958.pdf
+Quad Cities 2,4/22/1993,Two EDGs potentially unavailable,6.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H314.pdf
+North Anna 2,4/16/1993,Reactor trip with all AFW pumps disabled by operators,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G982.pdf
+Perry,3/26/1993,"Reactor scram, clogged suppression pool strainers, and SW rupture",1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H305.pdf
+Palo Verde 2,3/14/1993,SGTR (240 gpm),5.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H301.pdf
+Pilgrim,3/13/1993,LOOP caused by ice storm,5.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H308.pdf
+Catawba 1,2/25/1993,Three out of four ESW trains unavailable,2.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G734.pdf
+Catawba 2,2/25/1993,Three out of four ESW trains unavailable,2.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G734.pdf
+Three Mile Island 1,1/29/1993,Both decay heat coolers unavailable due to operator error rendering high-pressure recirculation unavailable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A214.pdf
+South Texas 1,1/22/1993,EDG inoperable due to binding of fuel metering rods and TDAFW pump failure while another EDG unavailable due to maintenance,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A206.pdf
+Sequoyah 1,12/31/1992,LOOP due to breaker fault,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A200.pdf
+Sequoyah 2,12/31/1992,LOOP due to breaker fault,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A200.pdf
+Oconee 1,12/2/1992,Both Keowee hydro units unavailable to power standby busses due to relay/breaker modification,3.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H294.pdf
+Oconee 2,12/2/1992,Both Keowee hydro units unavailable to power standby busses due to relay/breaker modification,3.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H294.pdf
+Oconee 3,12/2/1992,Both Keowee hydro units unavailable to power standby busses due to relay/breaker modification,3.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H294.pdf
+Oconee 2,10/19/1992,LOOP caused by improper switchyard battery replacement with a Keowee unit potentially unavailable and degraded TDAFW pump,2.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H295.pdf
+Callaway,10/17/1992,MCR annunciators unavailable due to failed power supplies and blown fuses,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G731.pdf
+Turkey Point 4,9/29/1992,Reactor trip due to loss of feedwater with one AFW pump unavailable due to maintenance,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A219.pdf
+Point Beach 2,9/18/1992,Foreign debris renders a train of high-pressure recirculation unavailable,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H310.pdf
+Turkey Point 3,8/24/1992,LOOP due to Hurricane Andrew while plants were shutdown,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A217.pdf
+LaSalle 2,8/27/1992,Reactor trip with degraded RCIC,6.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G971.pdf
+Turkey Point 4,8/24/1992,LOOP due to Hurricane Andrew while plants were shutdown,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A217.pdf
+Robinson,8/22/1992,LOOP with degraded SI due to foreign debris,2.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H317.pdf
+Trojan,7/22/1992,Reactor trip and TDAFW pump fails to start,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A216.pdf
+Sequoyah 2,7/17/1992,"EDG, RHR pump, and charging pump unavailable",2.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A202.pdf
+Oconee 1,7/16/1992,Both Keowee units unavailable,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H293.pdf
+Oconee 2,7/16/1992,Both Keowee units unavailable,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H293.pdf
+Robinson,7/10/1992,Foreign debris leads to degraded SI trains,4.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H316.pdf
+Oconee 3,7/16/1992,Both Keowee units unavailable,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H293.pdf
+Indian Point 3,7/6/1992,Multiple EDGs inoperable,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G968.pdf
+Fort Calhoun,7/3/1992,Reactor trip with faulty pressurizer safety valve,3.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G955.pdf
+Oconee 1,5/8/1992,Reactor trip with unavailable/degraded AFW trains,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G983.pdf
+Indian Point 2,4/13/1992,Reactor trip and AFW pump problems,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G966.pdf
+Oyster Creek,5/3/1992,LOOP due to forest fire,7.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H300.pdf
+Crystal River,3/27/1992,LOOP with inoperable vital bus inverter and degraded EDG,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G739.pdf
+Susquehanna 2,3/18/1992,Reactor trip with EDG and vital bus unavailable,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A213.pdf
+Quad Cities 1,2/6/1992,Reactor trip with HPCI unavailable due to maintenance and one SRV failing to open,7.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H313.pdf
+Pilgrim,10/30/1991,Severe storm causes LOOP due to salt buildup on transformer with subsequent RCIC pump trip,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H307.pdf
+Salem 1,9/20/1991,Both PORVs failed due to leaking actuators,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H318.pdf
+Peach Bottom 3,9/24/1991,Control wiring for ADS valves found damaged with HPCI degraded,3.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H302.pdf
+Oconee 1,9/19/1991,Potential for hydrogen entrainment in HPI pumps during SLOCA,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H292.pdf
+Oconee 2,9/19/1991,Potential for hydrogen entrainment in HPI pumps during SLOCA,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H292.pdf
+Oconee 3,9/19/1991,Potential for hydrogen entrainment in HPI pumps during SLOCA,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H292.pdf
+Diablo Canyon 2,9/1/1991,Containment sump isolation valves and CSS pump unavailable,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G742.pdf
+Millstone 2,8/21/1991,Both EDGs unavailable lead to unit shutdown,2.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G977.pdf
+Nine Mile Point 2,8/13/1991,Reactor trip due to the loss of five non-safety uninterruptible power supplies,4.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G981.pdf
+San Onofre 1,8/7/1991,Inoperable VCT level transmitters,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A197.pdf
+Fitzpatrick,8/5/1991,Hydraulic pressure locking of LPCI and LPCS injection valves,1.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G748.pdf
+Brunswick 1,7/18/1991,Reactor trip due to loss of feedwater with degraded HPCI system,6.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G729.pdf
+Surry 2,7/15/1991,Both EDGs inoperable for 13 hours,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A211.pdf
+Oconee 3,7/3/1991,Reactor trip due to loss of feedwater with one AFW flow control valve unavailable,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H297.pdf
+Yankee-Rowe,6/15/1991,LOOP due to lightning strike,6.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A226.pdf
+Seabrook,6/27/1991,LOOP,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A198.pdf
+Zion 2,6/11/1991,Reactor trip due feedwater pump trip with one AFW pump failed,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A229.pdf
+Shearon Harris,6/3/1991,Reactor trip breaker fails to open on trip,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A205.pdf
+Fitzpatrick,5/7/1991,Reactor trip with both LPCI trains inoperable,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G747.pdf
+Vermont Yankee,4/23/1991,Extended LOOP,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A220.pdf
+ANO 2,4/16/1991,Both normal SW trains fouled by debris,5.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G723.pdf
+Millstone 3,4/10/1991,Both trains of HPSI inoperable due to relief valve failure,8.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G980.pdf
+Comanche Peak 1,3/26/1991,Charging pump potentially unavailable due to hydrogen voids,6.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G737.pdf
+Shearon Harris,4/3/1991,HPI unavailable because of inoperable alternate minimum flow valves,6.00E-03,https://www.nrc.gov/docs/ML2014/ML20140A204.pdf
+Zion 2,3/21/1991,LOOP with one EDG inoperable for maintenance,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A228.pdf
+Perry,3/14/1991,Two EDGs inoperable,5.00E-04,https://www.nrc.gov/docs/ML2013/ML20135H304.pdf
+McGuire 1,2/11/1991,Switchyard breaker test results in LOOP,3.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G974.pdf
+Hatch 1,1/18/1991,Reactor trip due to loss of feedwater with HPCI degraded and RCIC failed,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G963.pdf
+Indian Point 2,1/7/1991,Reactor trip and AFW pump failure,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G965.pdf
+Wolf Creek,12/23/1990,SI pumps minimum flow return line frozen,5.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A223.pdf
+Salem 2,12/20/1990,One train of SI unavailable due to cooling water leak while an EDG was out for maintenance,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H321.pdf
+Ginna,12/12/1990,Reactor trip with manual and automatic safeguards initiation disabled,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G956.pdf
+Zion 1,11/6/1990,Two of three EDGs inoperable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A227.pdf
+Braidwood 1,9/29/1990,Reactor trip due to SSPS train actuation and subsequent trip of AFW pump,2.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G727.pdf
+Fort Calhoun,9/29/1990,CCW would fail on loss of instrument air,2.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G954.pdf
+Fort Calhoun,9/13/1990,An EDG failure with a similar condition on another EDG,7.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G751.pdf
+Pilgrim,9/2/1990,"Reactor scram due to feedwater control system failure and subsequent RCIC, HPCI, and RHR problems",8.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H306.pdf
+Sequoyah 2,8/22/1990,Gas accumulation in charging and HPI pumps suction,6.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A201.pdf
+Indian Point 3,8/9/1990,All EDGs potentially inoperable,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G967.pdf
+Dresden 2,8/2/1990,Stuck-open SRV followed by reactor scram,3.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G744.pdf
+Haddam Neck,7/9/1990,Incorrect valve installation could gas bind charging system,6.00E-04,https://www.nrc.gov/docs/ML2013/ML20135G957.pdf
+McGuire 1,6/26/1990,Both EDGs inoperable,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K465.pdf
+San Onofre 1,5/15/1990,Reactor trip with an AFW pump in maintenance,8.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A196.pdf
+Clinton,5/14/1990,Both EDGs inoperable due to inadequate water supply,5.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G736.pdf
+Oyster Creek,4/21/1990,Failure of safety-related 480V bus leads to reactor trip with a subsequent failure of the isolation condenser,9.00E-05,https://www.nrc.gov/docs/ML2013/ML20135H299.pdf
+Calvert Cliffs 1,3/30/1990,Inoperable pressurizer PORV,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G732.pdf
+Millstone 3,3/30/1990,Seaweed intrusion causes loss of main condenser vacuum and subsequent reactor trip with CSS recirculation train unavailable,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G979.pdf
+Vogtle 1,3/20/1990,LOOP with both EDGs inoperable results in SBO while in mid-loop operation,9.00E-04,https://www.nrc.gov/docs/ML2014/ML20140A221.pdf
+Fort Calhoun,3/16/1990,Unavailability of AFW following postulated MSLB,1.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G750.pdf
+San Onofre 1,2/20/1990,Improper valve failure mode could lead to failure of charging pumps,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A195.pdf
+Quad Cities 1,2/13/1990,Two EDGs out of service,4.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H312.pdf
+Susquehanna 1,2/3/1990,Fault on RPS bus causes loss of SDC,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20140A212.pdf
+Salem 2,1/17/1990,HPI inoperable due to leaking weld,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H320.pdf
+Dresden 2,1/16/1990,Reactor scram followed by LOOP,3.00E-06,https://www.nrc.gov/docs/ML2013/ML20135G743.pdf
+St. Lucie 2,1/14/1990,Reactor trip due to loss of feedwater and failure of TDAFW pump,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20140A209.pdf
+Hatch 2,1/12/1990,Reactor scram with HPCI inoperable,6.00E-05,https://www.nrc.gov/docs/ML2013/ML20135G964.pdf
+Perry,1/7/1990,Reactor scram with subsequent RCIC isolation,1.00E-06,https://www.nrc.gov/docs/ML2013/ML20135H303.pdf
+Sequoyah 1,12/16/1989,RWST level and other instrument transmitters inoperable,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A234.pdf
+Sequoyah 2,12/16/1989,RWST level and other instrument transmitters inoperable,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A234.pdf
+Limerick 2,12/11/1989,Reactor scram with degraded HPCI,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K402.pdf
+Grand Gulf,12/6/1989,Lightning strike causes a reactor scram while RCIC was out of service due to testing,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K346.pdf
+Farley 1,11/12/1989,Reactor trip with the MDAFW pumps failing to start under manual control,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K330.pdf
+Three Mile Island 1,11/14/1989,Oil sludge renders EDGs inoperable,2.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A149.pdf
+Fitzpatrick,11/12/1989,Reactor scram with HPCI system inoperable while testing SRVs,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K338.pdf
+Fitzpatrick,11/5/1989,Reactor scram with HPCI system inoperable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K337.pdf
+Trojan,10/30/1989,HPI inoperable due to isolation of volume control tank during testing,2.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A158.pdf
+ANO 1,10/12/1989,Automatic start of two SW pump circuits inhibited due to wiring error,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A335.pdf
+Shearon Harris,10/9/1989,Reactor trip and trip of the TDAFW pump,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A243.pdf
+McGuire 2,9/5/1989,CSS heat exchanger gasket failure,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K467.pdf
+D.C. Cook 2,8/14/1989,Reactor trip due to under-voltage on MCR panel,9.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A524.pdf
+Summer,7/11/1989,Reactor trip causes LOOP,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A255.pdf
+Crystal River,6/29/1989,LOOP with an EDG unavailable due to maintenance and degraded AFW,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A519.pdf
+Callaway,6/23/1989,Reactor trip with the loss of power to safety-related bus and its associated EDG in maintenance,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A481.pdf
+Brunswick 2,6/17/1989,Reactor manual scram causes a LOOP with RHR train unavailable due to valve failure,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A477.pdf
+Crystal River,6/16/1989,LOOP with degraded AFW pump,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A518.pdf
+River Bend,5/2/1989,Instrument air solenoid valves were installed backwards impacting ADS operability,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A200.pdf
+ANO 2,4/18/1989,Reactor trip with one train of AFW unavailable,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A340.pdf
+Point Beach 2,3/29/1989,LOOP due to inadvertent fire deluge system actuation caused by operator error,3.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A140.pdf
+Dresden 3,3/25/1989,LOOP with multiple trains of LPCI unavailable and degraded HPCI,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A544.pdf
+Calvert Cliffs 1,3/14/1989,Failure of saltwater system valves due to instrument air leakage could cause failure of high-pressure recirculation,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A487.pdf
+Shearon Harris,3/14/1989,Reactor trip with one TDAFW pump in maintenance,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A242.pdf
+McGuire 1,3/7/1989,SGTR,8.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K464.pdf
+Fitzpatrick,3/6/1989,Inadvertent SRV actuation with HPCI inoperable,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K336.pdf
+Duane Arnold,3/4/1989,Reactor scram with RCIC out of service,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A550.pdf
+Palo Verde 3,3/3/1989,Reactor trip with ADVs and nonsafety-related buses unavailable,5.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A120.pdf
+North Anna 1,2/25/1989,Reactor trip with subsequent SG tube leak and RHR suction valve failure,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K478.pdf
+Shearon Harris,1/16/1989,Reactor trip with failure of the TDAFW pump,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A241.pdf
+Hatch 1,12/17/1988,Reactor trip due to loss of feedwater with degraded RCIC,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K358.pdf
+Indian Point 2,12/11/1988,RWST level indication inoperable,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K387.pdf
+Palisades,11/4/1988,Potential loss of SW pumps,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K497.pdf
+Zion 1,10/25/1988,Potential for AFW and CCW pumps automatic start failure,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A178.pdf
+Braidwood 1,10/16/1988,LOOP for approximately two hours,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A347.pdf
+Oyster Creek,10/2/1988,Reactor trip with one safety-related bus unavailable,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K494.pdf
+Trojan,9/17/1988,Both trains of SI and one EDG inoperable,9.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A158.pdf
+Trojan,9/16/1988,Reactor trip with one SI pump out for maintenance,2.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A157.pdf
+Trojan,9/15/1988,Loss of volume control tank isolation capability,3.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A156.pdf
+Oyster Creek,9/2/1988,Both trains of isolation condenser inoperable,4.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K493.pdf
+Maine Yankee,8/13/1988,LOOP,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K404.pdf
+Nine Mile Point 2,7/28/1988,Both EDGs unavailable for 42 hours,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K473.pdf
+Diablo Canyon 2,7/17/1988,LOOP,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A535.pdf
+Byron 2,7/14/1988,Reactor trip due to loss of feedwater with AFW pump failure,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A480.pdf
+Sequoyah 2,6/6/1988,Reactor trip with failure of TDAFW pump,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A237.pdf
+Vogtle 1,6/3/1988,Water leak in MCR causes spurious PORV lift,8.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A172.pdf
+Turkey Point 3,5/29/1988,Long term operation of EDGs potentially unavailable due to improperly closed fuel valve,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A165.pdf
+Hatch 2,5/27/1988,Reactor trip and failure of RCIC pump,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K379.pdf
+Columbia,5/22/1988,Both EDGs unavailable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A502.pdf
+North Anna 2,5/20/1988,Both EDGs inoperable,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K483.pdf
+Sequoyah 2,5/19/1988,Reactor trip with one HPI and AFW train unavailable due to maintenance,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A236.pdf
+Diablo Canyon 1,5/5/1988,Degraded EDG unavailable due to clogged filter,4.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A534.pdf
+McGuire 1,4/16/1988,Reactor trip and subsequent failure of the TDAFW pump,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K463.pdf
+Surry 1,4/15/1988,Inoperable PORVs due to incorrectly torqued bolts,2.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A257.pdf
+Indian Point 3,3/31/1988,Reactor trip with the failure of one AFW pump,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K389.pdf
+Catawba 2,3/9/1988,Asiatic clams lead degraded AFW flow and subsequent reactor trip,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A500.pdf
+Davis-Besse,3/4/1988,Potential unavailability of CCW given loss of instrument air,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A533.pdf
+Sequoyah 2,2/12/1988,HPI system unavailable,4.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A235.pdf
+Shearon Harris,2/8/1988,SW pump seal water unavailable,5.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A240.pdf
+Turkey Point 4,2/7/1988,Reactor shutdown due to inoperability of three battery chargers,2.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A169.pdf
+Grand Gulf,1/11/1988,Effective steam line break due to failed open TBVs,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K345.pdf
+North Anna 1,1/8/1988,Reactor trip with failure of a TDAFW pump,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K477.pdf
+River Bend,12/19/1987,Reactor trip due to loss of feedwater with CST isolated from CRD pumps,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A199.pdf
+Wolf Creek,12/11/1987,Both EDGs unavailable for 9 days,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A174.pdf
+Trojan,12/6/1987,Reactor trip with subsequent TDAFW pump failure,5.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A155.pdf
+Pilgrim,11/12/1987,Winter storm causes LOOP with one EDG in maintenance,4.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A139.pdf
+Beaver Valley 2,11/17/1987,LOOP,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A346.pdf
+Catawba 2,11/3/1987,Reactor trip due to loss of feedwater and subsequent failure of the TDAFW pump,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A499.pdf
+Hope Creek,10/10/1987,Reactor trip due loss of feedwater with an SRV failed open,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K380.pdf
+Byron 2,10/2/1987,Reactor trip with operator error leads to subsequent LOOP,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A479.pdf
+Oconee 3,9/10/1987,HPI not available upon plant start-up due to personnel error,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K491.pdf
+McGuire 1,9/8/1987,Incorrect valve labeling leads to unavailability of both EDGs,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K408.pdf
+Davis-Besse,9/6/1987,"Reactor trip with unavailable vital bus, SW pump failure, and decay heat removal train failure due to nitrogen void",6.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A532.pdf
+McGuire 2,9/6/1987,Electrical failures leads to reactor trip and subsequent failure of PORVs to open with SW train in maintenance,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K466.pdf
+Waterford,7/31/1987,Reactor trip with failure of TDAFW pump and control rod assembly failed to insert during runback,2.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A173.pdf
+Rancho Seco,7/29/1987,EDG develops cooling water leak while testing with other EDG inoperable for maintenance,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A197.pdf
+Calvert Cliffs 1,7/23/1987,LOOP with failure of TDAFW pump,5.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A486.pdf
+Hatch 1,7/23/1987,Inverter failure leads to loss of feedwater and reactor trip with subsequent failure of RCIC,8.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K357.pdf
+North Anna 1,7/15/1987,SGTR,8.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K476.pdf
+Palisades,7/14/1987,Operator error cause deluge system actuation and subsequent LOOP,4.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K496.pdf
+Catawba 1,7/6/1987,Feedwater controller failure leads to reactor trip with subsequent failure of both MDAFW trains,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A496.pdf
+Fort Calhoun,7/6/1987,Water intrusion into instrument air system causes degraded safety equipment,6.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K341.pdf
+Shearon Harris,6/17/1987,Reactor trip with subsequent failure of the TDAFW pump,2.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A239.pdf
+Vogtle 1,6/3/1987,AFW system rendered unavailable due to disabled valve actuation circuitry,6.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A171.pdf
+Duane Arnold,5/27/1987,Both EDGs unavailable due to incorrect relay setting,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A549.pdf
+Byron 2,5/4/1987,Inverter failure fails instrument bus and causes reactor trip,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A478.pdf
+St. Lucie 2,4/9/1987,Operator error leads to main steam/feedwater isolation with subsequent reactor trip and failure of TDAFW pump,8.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A252.pdf
+Columbia,3/22/1987,Reactor trip with subsequent MSL flooding resulting in RCIC unavailability,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A501.pdf
+Brunswick 2,3/11/1987,Reactor trip with HPCI unavailable,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A476.pdf
+Perry,3/2/1987,Loss of feedwater leads to reactor trip with RCIC failure,7.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A128.pdf
+Perry,2/27/1987,Two EDGs unavailable due failed air solenoid valves,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A127.pdf
+Shearon Harris,2/27/1987,Valve failure leads to loss of feedwater and RWST suction valve failed to open,2.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A238.pdf
+Susquehanna 1,1/27/1987,Both EDGs unavailable,8.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A266.pdf
+Turkey Point 4,1/6/1987,Spurious RPS signal causes reactor trip with a TDAFW pump inoperable,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A166.pdf
+Brunswick 2,1/5/1987,Grid fluctuation causes reactor trip with RCIC and HPCI failures,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A475.pdf
+Turkey Point 3,12/27/1986,Reactor trip with stuck-open PORV,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20161A160.pdf
+Turkey Point 3,12/4/1986,TDAFW pumps unavailable,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A164.pdf
+Pilgrim,11/19/1986,LOOP due to winter storm,8.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A138.pdf
+Indian Point 2,10/20/1986,RPS breaker opens causing reactor trip with the failure of two AFW pumps,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K386.pdf
+Oconee 1,10/1/1986,Emergency condenser cooling systems unavailable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K488.pdf
+Oconee 2,10/1/1986,Emergency condenser cooling systems unavailable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K488.pdf
+Oconee 3,10/1/1986,Emergency condenser cooling systems unavailable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K488.pdf
+Calvert Cliffs 2,9/5/1986,Reactor trip with a secondary relief valve failed open,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A491.pdf
+Dresden 3,8/27/1986,HPCI unavailable with a train of LPCI and LPCS unavailable and EDG failure to load onto bus,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A543.pdf
+La Crosse,7/19/1986,LOOP due to lightning strike,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K393.pdf
+St. Lucie 2,7/9/1986,Two EDGs fail during testing,3.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A251.pdf
+Fort Calhoun,7/2/1986,Inverter failure leads to reactor trip and TBV unavailability,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K340.pdf
+Catawba 2,6/27/1986,Reactor trip occurs during MCR/shutdown panel test and  valve labeling errors leads to HPI unavailability,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A498.pdf
+Catawba 1,6/13/1986,CVCS system leak (130 gpm) from the CCW/CVCS heat exchanger joint,3.00E-03,https://www.nrc.gov/docs/ML2014/ML20147A495.pdf
+Indian Point 2,5/28/1986,Open TBVs cause reactor trip with subsequent failure of SI train to actuate,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K385.pdf
+Oconee 1,1/31/1986,"Reactor trip, subsequent loss of feedwater, and failure of secondary relief valve to close",2.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K487.pdf
+Robinson,1/28/1986,Bus failure leads to LOOP with an EDG unavailable and operator error leads to HPI pump unavailability,3.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A203.pdf
+Peach Bottom 2,1/24/1986,EDG fails during testing causing reactor trip due MSIV closure,8.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A123.pdf
+River Bend,1/1/1986,Radio interference leads to LOOP,7.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A198.pdf
+Rancho Seco,12/26/1985,"Integrated control system failure leads to overcooling and rapid primary and secondary depressurization, and operator error leads to failure of HPI pump",2.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A196.pdf
+Dresden 2,12/13/1985,Two EDGs unavailable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A538.pdf
+Indian Point 2,12/12/1985,LOOP with failure of MDAFW pump failure,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K384.pdf
+Grand Gulf,12/3/1985,Loss of feedwater leads to reactor trip with HPCS unavailable,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K344.pdf
+San Onofre 1,11/21/1985,Ground fault leads to partial LOOP and subsequent reactor trip and feedwater valve failures lead to loss of feedwater and AFW flow diversion,9.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A217.pdf
+Hatch 2,11/5/1985,Reactor trip due to condensate booster pump/feedwater pump trip with subsequent failure of RCIC,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K377.pdf
+Brunswick 1,11/2/1985,Operator error leads to reactor trip with subsequent RCIC failure and EDG problems,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A469.pdf
+Nine Mile Point 1,11/1/1985,Reactor trip with failure HPCI and an SRV fails to open,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K472.pdf
+Fitzpatrick,10/29/1985,Valve failure leads to HPCI unavailability while RCIC out for  maintenance,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K335.pdf
+La Crosse,10/22/1985,LOOP,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K392.pdf
+Palo Verde 1,10/7/1985,Multiplexer failure during maintenance caused a LOOP while plant in mode 3,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A119.pdf
+Palo Verde 1,10/3/1985,Multiplexer failure leads to LOOP,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A118.pdf
+Millstone 1,9/27/1985,LOOP caused by Hurricane Gloria while the plant was shutdown,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K468.pdf
+Pilgrim,9/19/1985,LPCI unavailable,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A137.pdf
+Oconee 3,8/28/1985,LOOP while shutdown,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K490.pdf
+Salem 2,8/27/1985,Degraded CCW flow,7.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A213.pdf
+Dresden 2,8/16/1985,LOOP and subsequent failure of isolation condenser,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A537.pdf
+Turkey Point 3,7/21/1985,Lightning strike causes reactor trip and TDAFW fails during recovery after feedwater bypass,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A163.pdf
+Trojan,7/20/1985,Reactor trip with subsequent loss of feedwater and rupture due to water hammer,2.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A153.pdf
+Brunswick 1,7/15/1985,Reactor trip with RCIC inoperable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A364.pdf
+Farley 2,7/15/1985,Lightning strike causes reactor trip with a subsequent loss of main condenser,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K332.pdf
+Catawba 1,6/22/1985,Loss of condenser vacuum leads to reactor trip with the failure of two secondary relief valves to open,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A494.pdf
+Catawba 1,6/13/1985,RCS leakage and feedwater pump trip leads to reactor trip with failure of three secondary relief valves to open,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A493.pdf
+Oyster Creek,6/12/1985,MSIV closure causes reactor trip with subsequent scram discharge volume failure,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K492.pdf
+Davis-Besse,6/9/1985,"Loss of feedwater results in reactor trip, operator error fails AFW, and a PORV fails open",1.00E-02,https://www.nrc.gov/docs/ML2014/ML20147A531.pdf
+Wolf Creek,6/9/1985,Loss of feedwater leads to reactor trip with failure of TDAFW pump,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A175.pdf
+Peach Bottom 2,6/3/1985,One loop of RHR and LPCI unavailable,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A122.pdf
+Brunswick 1,6/7/1985,Reactor trip with a subsequent failure of RCIC,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A362.pdf
+LaSalle 1,5/31/1985,CW expansion joint failure leads to reactor trip,7.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K400.pdf
+Turkey Point 4,5/17/1985,Grid-related LOOP caused by brush fires,4.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A168.pdf
+Hatch 1,5/15/1985,"HVAC water shorts panel causing SRV to fail open, HPCI failure, and RCIC unavailable",2.00E-03,https://www.nrc.gov/docs/ML2014/ML20149K356.pdf
+Calvert Cliffs 2,4/25/1985,Degraded RCP seal leads to reactor trip with stuck-open secondary relief valve,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A489.pdf
+Oconee 1,4/25/1985,Inverter failure results in reactor trip with a stuck-open main steam relief valve,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K486.pdf
+Oconee 1,4/11/1985,Turbine intercept valves failure results in reactor trip with two stuck-open main steam relief valves,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K485.pdf
+Catawba 1,3/14/1985,Both EDGs unavailable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A492.pdf
+Trojan,3/9/1985,Reactor trip and subsequent failure of both AFW pumps,4.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A154.pdf
+McGuire 1,1/28/1985,Reactor trip with stuck open secondary relief valve and check valve failure leads to unavailability of TDAFW pump,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K407.pdf
+LaSalle 1,2/8/1985,Operator error leads to loss of feedwater with subsequent reactor trip and RCIC failure,5.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K399.pdf
+Oconee 1,1/22/1985,Intercept valve closure leads to reactor scram and two main steam relief valves fail to close,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K484.pdf
+Browns Ferry 1,1/16/1985,Feedwater pump trip leads to reactor trip with RCIC failure,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A352.pdf
+Hatch 1,1/6/1985,Loss of vital power supply leads to reactor trip and subsequent failures of RCIC and HPCI during recovery,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K355.pdf
+Davis-Besse,1/15/1985,Feedwater isolation during physics testing leads to reactor trip with failure of TDAFW pump,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A530.pdf
+Browns Ferry 3,12/9/1984,Condensate pump failure leads to CRD pump unavailability and subsequent reactor trip,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A357.pdf
+North Anna 2,12/9/1984,Two EDGs unavailable,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K482.pdf
+Millstone 2,11/28/1984,Feedwater heater leak leads to reactor trip with degraded AFW flow,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K470.pdf
+Brunswick 2,11/27/1984,Reactor trip with RCIC and a train of LPCI unavailable with  subsequent water hammer event renders a loop of RHR unavailable,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A474.pdf
+St. Lucie 2,11/21/1984,Reactor trip and subsequent failure of the TDAFW pump,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A250.pdf
+Indian Point 3,11/16/1984,LOOP with two EDGs unavailable while plant was shutdown,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K388.pdf
+Browns Ferry 3,11/20/1984,Manual reactor scram during test preparation with HPCI unavailable,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A356.pdf
+North Anna 1,11/14/1984,Inverter failure leads to reactor trip with subsequent failure of AFW pump,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K475.pdf
+Trojan,9/26/1984,Open SG relief valves lead to reactor trip,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A152.pdf
+Quad Cities 2,10/25/1984,Reactor trip with subsequent failure of RCIC,9.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A149.pdf
+LaSalle 1,9/21/1984,Operator error causes scram with RCIC and RHR unavailable,2.00E-03,https://www.nrc.gov/docs/ML2014/ML20149K398.pdf
+Davis-Besse,9/11/1984,Reactor trip with failure of SG relief valve,4.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A529.pdf
+McGuire 1,8/21/1984,Switchyard computer failure causes LOOP,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K406.pdf
+Browns Ferry 1,8/14/1984,Multiple errors lead to over-pressurization of LPCS piping,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A351.pdf
+Brunswick 1,8/1/1984,Reactor trip during HPCI testing and a MSIV fails to close,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A366.pdf
+Quad Cities 1,8/8/1984,LPCI injections valves fail to fully open,7.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A144.pdf
+Susquehanna 2,7/26/1984,TBV fails open during low-power testing leading to manual reactor trip with LPCI outboard isolation valve failure,3.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A267.pdf
+Salem 1,7/16/1984,Unavailability of HPI pumps due to common-cause,7.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A209.pdf
+La Crosse,7/16/1984,LOOP with subsequent failure of EDG output breaker with HPCS pump in maintenance,9.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K391.pdf
+Duane Arnold,7/14/1984,LOOP due to degraded grid with subsequent failure of HPCI,7.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A548.pdf
+Duane Arnold,6/7/1984,Operator error causes loss of feedwater and subsequent reactor trip with SRV opening due to unrelated error,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A547.pdf
+Browns Ferry 1,6/27/1984,Inadvertent SRV opening leads to reactor trip,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A349.pdf
+Susquehanna 2,5/27/1984,EDGs fail to load during LOOP test due to bus feeder breakers failing to open results in SBO,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A268.pdf
+Grand Gulf,5/25/1984,Reactor trip with failure of RCIC,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K343.pdf
+Surry 1,5/18/1984,CCW isolated from HPI pump seal coolers,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A256.pdf
+LaSalle 2,5/17/1984,Loss of feedwater leads to reactor trip with HPCS unavailable,4.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K401.pdf
+Sequoyah 1,5/11/1984,SG relief valves spuriously lifts leading to a reactor trip,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A232.pdf
+Davis-Besse,3/28/1984,"MSIV closure leads to reactor trip and subsequent isolation and dry out of a SG, AFW valve failure, and failure of a main steam relief valve to close",1.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A528.pdf
+Brunswick 1,3/31/1984,Reactor trip due loss of feedwater and subsequent failure of the HPCI pump to start,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A365.pdf
+Rancho Seco,3/19/1984,Hydrogen explosion leads to reactor trip with subsequent partial loss of NNI power and PORV/SRV openings,2.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A195.pdf
+Zion 2,2/17/1984,Failure of EDG to start while testing with two AFW pumps out of service,4.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A746.pdf
+Susquehanna 1,2/25/1984,SRV fails open during testing after manual scram,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A265.pdf
+St. Lucie 2,2/9/1984,Reactor trip due to loss of feedwater and subsequent failure of an AFW pump with a stuck open SG relief valve,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A249.pdf
+Fitzpatrick,2/7/1984,RCIC fails during testing while HPCI in maintenance,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K334.pdf
+Calvert Cliffs 1,12/30/1983,Reactor trip with the MDAFW pump inoperable,8.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A485.pdf
+Hatch 1,12/28/1983,Reactor trip with HPCI inoperable,7.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K354.pdf
+Sequoyah 1,12/9/1983,One EDG and TDAFW pump inoperable,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A225.pdf
+Peach Bottom 2,12/23/1983,Reactor trip with two RHRSW pumps inoperable,7.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A121.pdf
+Crystal River,11/22/1983,Reactor trip with TDAFW pump inoperable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A517.pdf
+Browns Ferry 2,11/10/1983,Reactor trip with subsequent failure of HPCI,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A353.pdf
+Calvert Cliffs 2,11/7/1983,Reactor trip with one LPI pump inoperable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A488.pdf
+Surry 2,11/18/1983,Reactor trip with AFW pump inoperable,4.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A259.pdf
+San Onofre 3,10/31/1983,Reactor trip with TDAFW pump inoperable,2.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A219.pdf
+Oconee 3,10/13/1983,Reactor trip due to loss feedwater and one AFW pump inoperable due loss of cooling water,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K489.pdf
+LaSalle 1,9/30/1983,Reactor trip with RHR heat exchanger outlet valve failure,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K397.pdf
+Cooper,9/15/1983,Reactor trip with HPCI unavailable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A512.pdf
+Pilgrim,9/23/1983,Reactor trip with HPCI inoperable,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A136.pdf
+Susquehanna 1,8/28/1983,Reactor trip with RCIC system unavailable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A264.pdf
+Hatch 1,8/25/1983,HPCI and RCIC unavailabilities lead to manual scram,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K353.pdf
+Hatch 2,8/17/1983,Reactor trip with RHR heat exchanger unavailable,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K376.pdf
+Peach Bottom 3,9/8/1983,Two EDGs inoperable,4.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A126.pdf
+Trojan,8/20/1983,Reactor trip with diesel-driven AFW pump unavailable,3.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A151.pdf
+Calvert Cliffs 1,8/16/1983,One EDG and TDAFW pump inoperable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A484.pdf
+Susquehanna 1,8/2/1983,Reactor trip with HPCI pump failed,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A263.pdf
+Salem 2,8/1/1983,Reactor trip with vital bus de-energized,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A212.pdf
+Hatch 2,7/31/1983,Reactor trip with HPCI unavailable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K375.pdf
+Salem 1,8/11/1983,Trip with automatic reactor trip capability failed,5.00E-03,https://www.nrc.gov/docs/ML2015/ML20156A207.pdf
+St. Lucie 2,7/28/1983,Reactor trip with EDG failure and TDAFW pump unavailable,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A248.pdf
+Davis-Besse,7/25/1983,Reactor trip with AFW pump inoperable,8.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A527.pdf
+Hatch 2,7/14/1983,Reactor trip with RCIC and RHR heat exchanger unavailable,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K362.pdf
+Sequoyah 1,7/11/1983,Reactor trip with AFW pump unavailable,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A224.pdf
+Pilgrim,7/2/1983,Reactor trip with HPCI inoperable,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A135.pdf
+D.C. Cook 2,6/23/1983,Loss of vital instrument and control bus and subsequent reactor trip,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A523.pdf
+Susquehanna 1,7/7/1983,Reactor trip with RCIC system unavailable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A262.pdf
+San Onofre 2,6/21/1983,Reactor trip with MDAFW pump inoperable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A218.pdf
+ANO 1,6/9/1983,Reactor trip with AFW pump inoperable,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A333.pdf
+ANO 1,6/16/1983,Reactor trip with one HPI valve failed,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A334.pdf
+Dresden 2,6/8/1983,"Multiple reactor trips with a train of core spray, LPCI, and/or shutdown cooling inoperable",3.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A536.pdf
+LaSalle 1,6/1/1983,Reactor trip with RCIC inoperable,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K396.pdf
+Sequoyah 1,5/31/1983,Reactor trip with an AFW pump unavailable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A223.pdf
+Sequoyah 1,4/21/1983,One of two PORVs failed to open,2.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A222.pdf
+Summer,5/31/1983,Reactor trip with TDAFW pump inoperable,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A254.pdf
+Duane Arnold,5/23/1983,HPCI and RHRSW inoperable,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A546.pdf
+Robinson,4/19/1983,Reactor trip with an AFW pump and a pressurizer PORV inoperable,9.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A202.pdf
+Turkey Point 3,4/19/1983,All AFW pumps unavailable,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A162.pdf
+Susquehanna 1,3/22/1983,Reactor trip with RCIC system unavailable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A261.pdf
+Summer,3/17/1983,Both RHR trains and one HPI train inoperable,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A253.pdf
+Indian Point 2,3/8/1983,Reactor trip with TDAFW pump inoperable,4.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K383.pdf
+Salem 1,2/22/1983,Clogged circulating water screens causes reactor trip and subsequent LOOP and TDAFW pump failure,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A208.pdf
+Beaver Valley 1,2/18/1983,Reactor trip with TDAFW pump inoperable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A344.pdf
+ANO 2,2/14/1983,Reactor trip with a failure of the TDAFW pump,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A339.pdf
+Pilgrim,2/13/1983,LOOP from salt buildup during heavy storms,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A134.pdf
+Browns Ferry 1,2/5/1983,Reactor trip with failure of SRV to reclose and its vacuum breaker fails to open,4.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A348.pdf
+Surry 2,2/11/1983,Reactor trip with TDAFW pump inoperable,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A258.pdf
+Zion 2,1/31/1983,Two EDGs unavailable,5.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A182.pdf
+Peach Bottom 3,1/26/1983,Reactor trip with HPCI inoperable and subsequent loss of all power to safety bus,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A125.pdf
+Maine Yankee,1/25/1983,Reactor trip and subsequent feedwater line break results in degraded AFW flow,9.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K403.pdf
+Trojan,1/22/1983,Reactor trip with two AFW pumps unavailable,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20161A150.pdf
+Salem 2,1/6/1983,Reactor trip with a failure of a trip breaker to open,4.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A211.pdf
+D.C. Cook 2,12/29/1982,Unavailability of SI train,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A522.pdf
+Susquehanna 1,12/22/1982,Reactor trip with failure two ESW pumps,4.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A260.pdf
+St. Lucie 1,11/26/1982,LOOP,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A246.pdf
+Salem 2,10/19/1982,Reactor trip with two charging pumps inoperable,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A210.pdf
+Zion 1,10/15/1982,Two EDGs inoperable,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A176.pdf
+Pilgrim,9/30/1982,RCIC and HPCI suction valves inoperable,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A133.pdf
+Brunswick 2,10/10/1982,Reactor trip with ABT failure and EDG output breaker failure causing the loss of all power to a safety bus,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A473.pdf
+Quad Cities 2,10/1/1982,LOOP and subsequent failure of the swing EDG,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A145.pdf
+Hatch 1,9/24/1982,HPCI failure with RCIC unavailable due to maintenance,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K352.pdf
+North Anna 2,9/5/1982,Reactor trip with one LPI pump inoperable,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K481.pdf
+St. Lucie 1,9/2/1982,Reactor trip due to inadvertent SI and loss of power to vital buses,6.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A247.pdf
+Calvert Cliffs 1,8/31/1982,Reactor trip with one TDAFW pump inoperable,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A483.pdf
+LaSalle 1,8/30/1982,Reactor trip with RCIC and CRD systems inoperable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K395.pdf
+Salem 1,8/31/1982,Reactor trip with one charging pump inoperable,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A206.pdf
+Prairie Island 1,8/27/1982,Two EDGs simultaneously inoperable for 1.5 hours,2.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A141.pdf
+Hatch 2,8/25/1982,Two RHRSW loops unavailable,8.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K361.pdf
+D.C. Cook 2,8/24/1982,Loss of vital instrument and control bus and subsequent reactor trip with failed HPI train,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A521.pdf
+LaSalle 1,8/21/1982,Reactor trip with subsequent failure of recirculation pump seals with RCIC and CRD unavailable/degraded,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K394.pdf
+Hatch 2,8/17/1982,Three RHRSW pumps failed,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K360.pdf
+Vermont Yankee,8/19/1982,Reactor trip with HPCI inoperable,6.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A170.pdf
+Hatch 2,8/13/1982,MSIV isolation causes reactor trip with subsequent LOCA via scram discharge volume with RCIC inoperable,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K359.pdf
+Pilgrim,8/13/1982,Reactor trip with subsequent HPCI failure,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A132.pdf
+Zion 1,8/11/1982,Two EDGs inoperable,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A177.pdf
+Hatch 1,8/5/1982,Both HPCI and RCIC unavailable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K351.pdf
+Salem 1,7/31/1982,Reactor trip with one AFW pump and one EDG inoperable,1.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A205.pdf
+Beaver Valley 1,7/18/1982,Trip with two CCW pumps inoperable,4.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A343.pdf
+Salem 1,6/26/1982,Reactor trip with two charging pumps inoperable,1.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A204.pdf
+Quad Cities 2,6/24/1982,Reactor trip with HPCI pump inoperable,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A147.pdf
+Quad Cities 2,6/22/1982,HPCI and one EDG inoperable,4.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A148.pdf
+Quad Cities 1,6/22/1982,Reactor trip with RHRSW train inoperable,2.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A143.pdf
+McGuire 1,6/13/1982,Loss of vital instrument and control bus and subsequent reactor trip,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K405.pdf
+Crystal River,6/8/1982,Reactor trip with one RHR train inoperable,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A516.pdf
+Turkey Point 3,6/9/1982,Reactor trip with HPI pump inoperable,3.00E-06,https://www.nrc.gov/docs/ML2016/ML20161A161.pdf
+Farley 2,5/19/1982,Reactor trip with an HPI pump inoperable,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K331.pdf
+Indian Point 2,5/17/1982,Reactor trip with two AFW pumps inoperable,1.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K382.pdf
+North Anna 1,4/16/1982,Reactor trip with one AFW pump inoperable,1.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K474.pdf
+Quad Cities 1,4/25/1982,Two EDGs inoperable,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A145.pdf
+Fort Calhoun,4/11/1982,Three of four CCW heat exchangers inoperable,6.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K339.pdf
+Peach Bottom 3,4/10/1982,Reactor trip with an RHR pump unavailable due failure of room cooling,3.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A124.pdf
+Zion 2,4/9/1982,Both MDAFW pumps unavailable due to lack of cooling water,3.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A180.pdf
+Sequoyah 1,4/8/1982,One MDAFW pump and one EDG inoperable,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A221.pdf
+Brunswick 1,3/25/1982,Both RHRSW loops simultaneously inoperable,5.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A361.pdf
+Fitzpatrick,3/12/1982,Trip with HPCI system inoperable,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K333.pdf
+North Anna 2,3/8/1982,PORVs inoperable due to low nitrogen pressure,4.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K480.pdf
+Brunswick 1,2/18/1982,Reactor trip with subsequent failure of RCIC,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A360.pdf
+Brunswick 2,2/3/1982,Reactor trip with the RHRSW system inoperable,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A472.pdf
+Hatch 1,2/12/1982,Trip with RCIC inoperable,3.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K350.pdf
+D.C. Cook 2,1/28/1982,ESW train and opposite HPI train found inoperable,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A520.pdf
+Crystal River,1/23/1982,Two EDGs inoperable,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A515.pdf
+Ginna,1/25/1982,SGTR with a failure of a pressurizer PORV to reclose,4.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K342.pdf
+Brunswick 2,1/16/1982,Reactor trip with the RHRSW system inoperable,2.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A471.pdf
+Palisades,1/6/1982,AFW pump found inoperable during reactor shutdown,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K495.pdf
+St. Lucie 1,12/19/1981,MSIV closure leads to reactor trip and subsequent failure of a pressurizer SRV to close,8.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A245.pdf
+Zion 2,12/11/1981,Reactor trip with failure of both MDAFW pumps and the TDAFW pump in maintenance,7.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A179.pdf
+Dresden 3,10/23/1981,Failure of both EDGs due to degraded cooling water,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A542.pdf
+Turkey Point 4,10/21/1981,SI flow path to RCS found obstructed by boric acid,9.00E-05,https://www.nrc.gov/docs/ML2016/ML20161A167.pdf
+North Anna 2,10/3/1981,Reactor trip with operator error leading the all TBVs opening and subsequent SI actuation,8.00E-06,https://www.nrc.gov/docs/ML2014/ML20149K479.pdf
+San Onofre 1,9/3/1981,Power supply to feedwater and SG instrumentation and controllers fail causing reactor trip with subsequent valve failures rendering SI system inoperable,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A216.pdf
+Rancho Seco,8/7/1981,Low switchyard voltage causes LOOP while plant is shutdown,7.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A194.pdf
+Davis-Besse,6/24/1981,Loss of vital bus with failure of an AFW pump and main steam safety valve to reseat,2.00E-03,https://www.nrc.gov/docs/ML2014/ML20147A526.pdf
+Rancho Seco,6/19/1981,Low switchyard voltage causes LOOP while plant is shutdown,5.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A150.pdf
+Crystal River,6/16/1981,LOOP due to lightning strike with one EDG failing to start,4.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A514.pdf
+Beaver Valley 1,6/6/1981,Normally locked-open cooling water valves to SI pumps found closed,2.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A342.pdf
+Monticello,4/27/1981,LOOP and failure of a safety-related bus while plant was refueling,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K471.pdf
+Brunswick 1,4/19/1981,Loss of shutdown cooling due oyster shell buildup in the RHR heat exchanger,7.00E-03,https://www.nrc.gov/docs/ML2014/ML20147A359.pdf
+Brunswick 2,4/10/1981,HPCI and RCIC found inoperable during testing,6.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A470.pdf
+Haddam Neck,4/3/1981,Pressurizer PORV and it associated block valve spuriously open,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K348.pdf
+Sequoyah 1,2/11/1981,Operator error leads to RCS blowdown through CSS while plant in cold shutdown,9.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A220.pdf
+La Crosse,2/1/1981,LOOP,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K390.pdf
+Robinson,1/29/1981,Reactor trip due to SI signal and subsequent LOCA from RCS letdown line,9.00E-06,https://www.nrc.gov/docs/ML2015/ML20156A201.pdf
+Millstone 2,1/2/1981,Loss of DC power results in partial LOOP with EDG failure due to operator error,5.00E-03,https://www.nrc.gov/docs/ML2014/ML20149K469.pdf
+San Onofre 1,11/22/1980,LOOP and degraded load shed ability,6.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A215.pdf
+Quad Cities 2,11/16/1980,RCIC and HPCI declared inoperable during testing,3.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A146.pdf
+Pilgrim,10/31/1980,Failed nitrogen regulator leads to stuck-open SRV and subsequent reactor trip,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A131.pdf
+Pilgrim,10/7/1980,Reactor trip with subsequent stuck open SRV,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A130.pdf
+Pilgrim,10/1/1980,Solenoid valve failure leads to stuck open SRV,1.00E-04,https://www.nrc.gov/docs/ML2015/ML20156A129.pdf
+Dresden 3,7/19/1980,Scram discharge volumes fail to drain during testing,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A541.pdf
+Prairie Island 2,7/15/1980,LOOP due to electrical storm,5.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A142.pdf
+Browns Ferry 3,6/28/1980,Failure of control rods to fully insert during manual trip,9.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A355.pdf
+Hatch 1,6/26/1980,Reactor trip with subsequent failures of HPCI and RCIC,3.00E-04,https://www.nrc.gov/docs/ML2014/ML20149K349.pdf
+ANO 1,6/24/1980,LOOP,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A332.pdf
+ANO 2,6/24/1980,LOOP,2.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A337.pdf
+St. Lucie 1,6/11/1980,Loss of CCW to RCPs result in reactor trip and subsequent top vessel head bubble,1.00E-03,https://www.nrc.gov/docs/ML2015/ML20156A244.pdf
+Indian Point 2,6/3/1980,LOOP due to lightning strike,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K381.pdf
+Calvert Cliffs 1,5/20/1980,Air line leak leads to loss of SW and subsequent reactor trip with AFW rendered unavailable due to operator error,7.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A482.pdf
+ANO 1,5/10/1980,RCP seal failure (LOCA) leads to reactor trip,5.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A330.pdf
+Dresden 3,4/25/1980,Multiple EMRVs fails during reactor start-up,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A539.pdf
+Davis-Besse,4/19/1980,Loss of two essential buses leads to loss of decay heat removal,1.00E-03,https://www.nrc.gov/docs/ML2014/ML20147A525.pdf
+ANO 1,4/7/1980,LOOP due to tornado activity with failed HPI valve,5.00E-06,https://www.nrc.gov/docs/ML2014/ML20147A329.pdf
+ANO 2,4/7/1980,LOOP due to tornado activity with degraded AFW flow,6.00E-04,https://www.nrc.gov/docs/ML2014/ML20147A338.pdf
+San Onofre 1,3/10/1980,Loss of saltwater service cooling water system,2.00E-05,https://www.nrc.gov/docs/ML2015/ML20156A214.pdf
+Crystal River,2/26/1980,Loss 24V DC NNI causes reactor trip and stuck-open PORV and subsequent SG dry-out,5.00E-03,https://www.nrc.gov/docs/ML2014/ML20147A513.pdf
+Haddam Neck,2/4/1980,Spurious signal causes PORV to open,3.00E-05,https://www.nrc.gov/docs/ML2014/ML20149K347.pdf
+Duane Arnold,1/11/1980,Stuck open relief valve during startup leads to reactor trip,1.00E-05,https://www.nrc.gov/docs/ML2014/ML20147A545.pdf
+Salem 1,11/28/1979,One HPI pump failed and another found in degraded condition,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A730.pdf
+Brunswick 2,11/20/1979,Reactor trip with failure of RCIC and HPCI unavailable due to maintenance,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A444.pdf
+D.C. Cook 1,11/15/1979,Concurrent unavailabilities of MDAFW and TDAFW pumps,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A452.pdf
+Oconee 2,10/24/1979,Low pressure recirculation SW valves found closed,5.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A581.pdf
+Davis-Besse,10/15/1979,Reactor trip with subsequent LOOP,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A457.pdf
+Prairie Island 1,10/2/1979,SGTR,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A716.pdf
+Oconee 1,9/26/1979,Failure of gas turbine with both Keowee units unavailable due to maintenance,6.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A580.pdf
+Oconee 2,9/26/1979,Failure of gas turbine with both Keowee units unavailable due to maintenance,6.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A580.pdf
+St. Lucie 1,9/3/1979,LOOP with the subsequent failure of an EDG while plant is shutdown,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A733.pdf
+Pilgrim,8/28/1979,LOOP due to lightning,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A710.pdf
+Hatch 2,8/13/1979,Reactor trip with subsequent failure of HPCI pump to start and RCIC unavailable,1.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A555.pdf
+Calvert Cliffs 1,7/31/1979,Engineered safety features actuation system failed,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A446.pdf
+Pilgrim,7/27/1979,LOOP due to lightning,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A709.pdf
+Haddam Neck,6/28/1979,Bistable failure causes opening of PORV and its associated isolation valve,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A551.pdf
+Peach Bottom 3,6/22/1979,Lightning strike causes failure of main stack sampling system results in an unavailability of RCIC and HPCI,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A704.pdf
+Brunswick 2,6/19/1979,Both RHRSW pumps inoperable,3.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A443.pdf
+Crystal River,6/6/1979,Both EDGs trip during testing,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A449.pdf
+Hatch 2,6/3/1979,HPCI and RCIC fails to isolate after reactor trip during test,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A557.pdf
+Oyster Creek,5/2/1979,Reactor trip results in loss of feedwater with subsequent failure of isolation condenser,3.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A586.pdf
+Dresden 2,5/30/1979,Failure of two EDGs,8.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A460.pdf
+Trojan,4/14/1979,Two MSIVs fail to close during testing,3.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A738.pdf
+Duane Arnold,3/21/1979,Both ESW trains inoperable due to clogged strainers,3.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A464.pdf
+Farley 1,2/22/1979,One EDG found unavailable while the other EDG was in maintenance,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A468.pdf
+Kewaunee,2/21/1979,Both EDGs inoperable,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A564.pdf
+Point Beach 2,2/19/1979,Both MSIVs fail to close,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A715.pdf
+Beaver Valley 1,1/18/1979,Stuck open TBVs lead to reactor trip and SI,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A433.pdf
+Davis-Besse,1/12/1979,Loss of vital bus leads to reactor trip while AFW pump in testing,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A456.pdf
+Fort Calhoun,12/20/1978,Operator error causes two stuck-open PORVs during cold shutdown,2.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A471.pdf
+Salem 1,11/27/1978,Loss of vital bus results in reactor trip and inadvertent SI with failure of two AFW pumps,5.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A729.pdf
+Rancho Seco,10/24/1978,One EDG fails to run with the other EDG unavailable due to maintenance,3.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A724.pdf
+Pilgrim,8/6/1978,LOOP due to lightning,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A707.pdf
+Beaver Valley 1,7/28/1978,LOOP and subsequent EDG failure,5.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A432.pdf
+St. Lucie 1,5/14/1978,LOOP during refueling with an EDG out for maintenance,5.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A732.pdf
+Three Mile Island 2,4/23/1978,Reactor trip with subsequent stuck-open relief valves,6.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A736.pdf
+Calvert Cliffs 1,4/13/1978,LOOP while plant was shutdown and failure of EDG,5.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A445.pdf
+Three Mile Island 2,3/29/1978,Inverter failure causes stuck-open PORV and subsequent reactor trip,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A737.pdf
+Farley 1,3/25/1978,Reactor trip with all AFW pumps ineffective,1.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A467.pdf
+Dresden 2,3/21/1978,Operator error renders the isolation condenser inoperable with HPCI unavailable due to maintenance,2.00E-06,https://www.nrc.gov/docs/ML2023/ML20233A663.pdf
+Rancho Seco,3/20/1978,Failure of NNI leads to reactor trip and SG dry out,3.00E-01,https://www.nrc.gov/docs/ML2016/ML20168A722.pdf
+Three Mile Island 1,3/18/1978,Two HPI pumps trip during testing,2.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A735.pdf
+Pilgrim,2/6/1978,LOOP due to winter storm,6.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A706.pdf
+Davis-Besse,12/11/1977,Partial trip signal leads to stuck-open PORV and subsequent reactor trip,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A453.pdf
+Millstone 1,12/10/1977,EDG found inoperable concurrent with gas turbine failure,1.00E-05,https://www.nrc.gov/docs/ML2103/ML21033B063.pdf
+Palisades,12/11/1977,LOOP,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A594.pdf
+Davis-Besse,11/29/1977,Reactor trip with subsequent momentary LOOP with the failure of an EDG,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A454.pdf
+Dresden 3,11/29/1977,Two EDGs fail during testing,8.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A462.pdf
+Palisades,11/25/1977,LOOP,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A593.pdf
+Robinson,11/23/1977,All SI pumps inoperable during plant heat up,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A727.pdf
+Surry 2,10/11/1977,Mispositioned ESW valves could result in a loss of recirculation,3.00E-06,https://www.nrc.gov/docs/ML2023/ML20233A675.pdf
+Davis-Besse,9/24/1977,Both AFW pumps found inoperable during testing,3.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A455.pdf
+Palisades,9/24/1977,Electrical storm causes LOOP,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A591.pdf
+Farley 1,9/16/1977,LOOP due to lightning strike,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A465.pdf
+D.C. Cook 1,9/1/1977,LOOP due to lightning strike,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A451.pdf
+Cooper,8/31/1977,Blown fuse leads to partial loss of feedwater and subsequent reactor trip with RCIC and HPCI pump failures,1.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A447.pdf
+Peach Bottom 2,8/26/1977,Two EDGs fail to start during testing,8.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A595.pdf
+Fort Calhoun,8/22/1977,Momentary LOOP causes reactor trip,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A470.pdf
+Brunswick 2,7/15/1977,Reactor trip and subsequent stuck open SRV,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A442.pdf
+Indian Point 3,7/13/1977,Electrical storms lead to reactor trip and subsequent LOOP,5.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A562.pdf
+Zion 2,7/12/1977,Incorrect signals on RPS leads to loss of accurate instrumentation and trip settings during testing,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A748.pdf
+Peach Bottom 3,6/13/1977,Three EDGs inoperable,4.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A596.pdf
+St. Lucie 1,5/16/1977,Grid disturbance causes LOOP,4.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A731.pdf
+Millstone 2,5/15/1977,Both EDG fuel valves found to be closed during inspection,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A576.pdf
+Salem 1,5/6/1977,Failure to clear overpressure during plant heat up causes unavailability of both SI pump and one charging pump,3.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A728.pdf
+Crystal River,4/16/1977,Excessive cooldown rate experienced during testing,2.00E-06,https://www.nrc.gov/docs/ML2023/ML20233A649.pdf
+Duane Arnold,3/28/1977,Six main steam relief valves fail to lift properly during testing,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A463.pdf
+Crystal River,3/3/1977,Inverter failure leads to loss of vital bus and subsequent reactor trip and loss of condenser heat sink,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A448.pdf
+Rancho Seco,2/18/1977,Both AFW pumps unavailable,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A721.pdf
+Brunswick 1,1/4/1977,Multiple EDGs trip during testing,8.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A439.pdf
+Hatch 1,11/11/1976,Two divisions of SW strainers plug,5.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A554.pdf
+Rancho Seco,11/11/1976,Suction valves to decay heat pumps fail to open during testing,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A720.pdf
+Millstone 1,8/10/1976,Hurricane causes LOOP with subsequent failure of the gas turbine,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A572.pdf
+Millstone 2,8/10/1976,Hurricane causes LOOP with subsequent failure of the gas turbine,9.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A575.pdf
+Millstone 2,7/20/1976,LOOP with failure of EDG load shed signals,1.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A573.pdf
+Haddam Neck,6/26/1976,LOOP during refueling,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A550.pdf
+Vermont Yankee,7/6/1976,Multiple SRVs fail during testing,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A745.pdf
+Millstone 1,3/15/1976,Gas turbine fails during testing with isolation condenser unavailable,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A571.pdf
+Millstone 1,3/8/1976,Gas turbine becomes inoperable with isolation condenser unavailable,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A570.pdf
+Hatch 1,12/20/1975,Inadvertent ADS actuation with HPCI inoperable,5.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A553.pdf
+Oconee 1,12/19/1975,Borated water storage tank level indication failed due to freezing,2.00E-05,https://www.nrc.gov/docs/ML2103/ML21033B089.pdf
+Kewaunee,11/5/1975,Clogged suction strainers for AFW pumps,3.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A563.pdf
+Pilgrim,9/13/1975,LOOP with stuck-open relief valve,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A705.pdf
+Quad Cities 2,8/31/1975,HPCI and RCIC failures lead to reactor shutdown,8.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A719.pdf
+Quad Cities 2,8/17/1975,Low flow feedwater line break leads to LOCA and subsequent reactor trip,2.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A718.pdf
+Hatch 1,7/29/1975,Two EDGs failed,4.00E-05,https://www.nrc.gov/docs/ML2103/ML21033B092.pdf
+Oconee 3,6/13/1975,Stuck open PORV due to boric acid buildup leads to LOCA and subsequent reactor trip,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A582.pdf
+Humboldt Bay,6/7/1975,Earthquake (0.36g) occurred while plant in refueling,3.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A559.pdf
+Turkey Point 4,5/25/1975,Two EDGs fail during testing,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A743.pdf
+Robinson,5/1/1975,RCP seal failure leads to LOCA and subsequent reactor trip,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A726.pdf
+Brunswick 2,4/29/1975,Multiple valve failures including stuck-open relief valve with RCIC inoperable,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A441.pdf
+Oconee 3,4/19/1975,Condenser circulating water valves fail to open,1.00E-04,https://www.nrc.gov/docs/ML2023/ML20233A669.pdf
+Brunswick 2,3/26/1975,LOOP while plant in cold shutdown,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A440.pdf
+Browns Ferry 1,3/22/1975,Cable tray fire caused extensive damage and loss of electrical power to safety systems,4.00E-01,https://www.nrc.gov/docs/ML2016/ML20168A437.pdf
+Hatch 1,12/8/1974,Both EDGs fail during testing,8.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A552.pdf
+Fitzpatrick,2/25/1975,All drywell high pressure switches isolated,4.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A469.pdf
+ANO 1,11/24/1974,Reactor trip due to RPS malfunction,1.00E-06,https://www.nrc.gov/docs/ML2016/ML20168A431.pdf
+Palisades,10/17/1974,LOOP while plant in hot standby,5.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A590.pdf
+Zion 2,10/22/1974,Reactor trip and subsequent loss of power to safeguards train and BIT valve failure,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A747.pdf
+Browns Ferry 2,8/23/1974,HPCI valve fails during testing with subsequent failure of the RCIC pump,8.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A438.pdf
+Turkey Point 4,4/25/1974,LOOP,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A742.pdf
+Turkey Point 3,5/8/1974,Failure of three TDAFW pumps to start during test,3.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A740.pdf
+Point Beach 1,4/7/1974,Clogged suction strainers for AFW pumps,3.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A714.pdf
+Haddam Neck,1/19/1974,LOOP due to ice storm with failure of EDG SW pump to start,2.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A474.pdf
+Surry 1,11/30/1973,RCP shaft failure leads to subsequent reactor trip,9.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A734.pdf
+Browns Ferry 1,11/19/1973,RCIC and HPCI fail during startup,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A436.pdf
+Nine Mile Point 1,11/11/1973,Worker bumps relay causing LOOP while plant was shutdown,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A578.pdf
+Browns Ferry 1,11/19/1973,Turbine trip leads to LOOP during testing,3.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A435.pdf
+Ginna,10/21/1973,"LOOP, excessive RCS cooldown, and failure of a vital instrument bus",2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A472.pdf
+Oyster Creek,9/8/1973,LOOP and subsequent EDG lockout,2.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A585.pdf
+Turkey Point 3,7/4/1973,Inadvertent SI leads to reactor trip with subsequent failure of ABT,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A739.pdf
+Turkey Point 4,6/18/1973,Reactor trip and subsequent failure of TDAFW pumps to start automatically,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A741.pdf
+Oyster Creek,12/29/1972,Reactor trip with multiple valve failures including a stuck-open relief valve,2.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A584.pdf
+Maine Yankee,2/2/1973,Charging valves fail to open due to ice binding,4.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A568.pdf
+Vermont Yankee,12/17/1972,LOOP and failure of SRV to open,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A744.pdf
+La Crosse,8/17/1972,LOOP due to maintenance error,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A567.pdf
+Indian Point 1,7/20/1972,LOOP due to grid disturbance,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A561.pdf
+Quad Cities 1,6/10/1972,Flooding of turbine building due to circulating water valve failure leading to failed expansion joint,4.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A717.pdf
+Palisades,5/17/1972,LOOP while plant in hot standby,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A589.pdf
+Big Rock Point,1/25/1972,LOOP due to multiple electrical failures,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A434.pdf
+Nine Mile Point 1,12/31/1971,Reactor trip and subsequent overfeeding of the reactor causing some water to enter the main steam lines,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A577.pdf
+Dresden 3,12/8/1971,Reactor trip due to loss of feedwater and the failure of feedwater regulating valve to close,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A461.pdf
+Millstone 1,10/10/1971,Reactor trip with a stuck open relief valve and failure of TBV failure to close,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A569.pdf
+Palisades,9/8/1971,Open electromatic relief valve causes RCS depressurization,1.00E-05,https://www.nrc.gov/docs/ML2016/ML20168A588.pdf
+Palisades,9/2/1971,LOOP and EDG output breaker failed to close automatically,6.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A587.pdf
+La Crosse,3/24/1971,LOOP due to switchyard fire,2.00E-02,https://www.nrc.gov/docs/ML2016/ML20168A566.pdf
+Point Beach 1,4/16/1971,Failure of containment sump isolation valves,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A713.pdf
+Robinson,3/8/1971,Failure of both EDGs during testing,1.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A725.pdf
+Point Beach 1,2/5/1971,LOOP while plant in hot standby due to ice storm,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A711.pdf
+La Crosse,1/20/1971,LOOP,1.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A565.pdf
+Point Beach 1,1/12/1971,Failure of containment sump isolation valves,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A712.pdf
+Indian Point 1,12/26/1970,LOOP,6.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A560.pdf
+Dresden 2,12/4/1970,Reactor trip with operators overfeeding SGs due to instrumentation failure,3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A459.pdf
+Dresden 2,6/5/1970,Failure of several MSIVs to close,1.00E-06,https://www.nrc.gov/docs/ML2103/ML21033B096.pdf
+Humboldt Bay,7/17/1970,LOOP with subsequent failure of isolation condenser valve,8.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A558.pdf
+Dresden 1,4/27/1970,Failure of three of four safety system sensors (primary drum low level scram),3.00E-04,https://www.nrc.gov/docs/ML2016/ML20168A458.pdf
+Haddam Neck,7/15/1969,LOOP and subsequent loss of RCP seal cooling/failure,2.00E-03,https://www.nrc.gov/docs/ML2016/ML20168A473.pdf
